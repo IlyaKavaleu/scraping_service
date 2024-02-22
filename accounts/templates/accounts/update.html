@@ -1,0 +1,56 @@
+{% extends 'scraping/base.html' %}
+{% block title %}Login{% endblock title %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <h4 class="my-2" id="brand">Settings</h4>
+        <form method="POST" action="" id="brand">
+          <div class="form-group">
+              {% csrf_token %}
+              {{ form.as_p }}
+            <button type="submit" class="btn btn-primary">Save</button>
+        </form>
+        <form method="POST" action="{% url 'accounts:delete' %}" id="brand">
+            {% csrf_token %}
+            <button type="submit" class="btn btn-danger my-3">Delete</button>
+        </form>
+    </div>
+</div>
+
+
+<div class="row my-6">
+    <div class="col-md-8 mx-auto">
+        <p class="my-2" id="brand"><strong>If you have not found a suitable City, Specialty, you can fill
+            out the form below with your wishes. After the necessary data has been added,
+            you will receive a letter to your email address.</strong></p>
+
+            <p>
+              <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapsed" aria-expanded="false" aria-controls="collapseExample" id="brand">
+                  Show contact form
+              </button>
+            </p>
+            <div class="collapse" id="collapsed">
+              <div class="card card-body">
+                  <form method="POST" action="{% url 'accounts:contact' %}" id="brand">
+                      <div class="form-group">
+                          {% csrf_token %}
+                          {{ contact_form.as_p }}
+                          <button type="submit" class="btn btn-primary">Save</button>
+                  </form>
+              </div>
+            </div>
+    </div>
+    <br>
+<br>
+<br>
+</div>
+{% endblock content %}
+
+{% include 'scraping/man.html' %}
+
+
+
+
+
+

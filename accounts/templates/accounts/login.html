@@ -1,0 +1,23 @@
+{% extends 'scraping/base.html' %}
+{% block title %}Login{% endblock title %}
+{% block content %}
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <h4 class="my-2" id="brand">Login form</h4>
+        <form method="POST" action="{% url 'accounts:login' %}" id="brand">
+          <div class="form-group">
+              {% csrf_token %}
+              {{ form.as_p }}
+            <button type="submit" class="btn btn-primary">Go</button>
+        </form>
+    </div>
+</div>
+{% include 'scraping/man.html' %}
+{% endblock content %}
+
+
+
+
+
+
+
