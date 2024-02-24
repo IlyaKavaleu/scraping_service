@@ -1,43 +1,32 @@
 import json
+#
+# with open('newdata.json', 'r', encoding='utf-8') as f:
+#     dates = json.load(f)
+#     new = []
+#     li = []
+#
+alpha = [
+        'б'.title() or 'в'.title() or 'г'.title() or 'д'.title() or 'ж'.title() or 'з'.title() or 'й'.title() or 'к'.title() or
+        'л'.title() or 'м'.title() or 'н'.title() or 'п'.title() or 'p'.title() or 'c'.title() or 'т'.title() or 'ф'.title() or 'x'.title() or 'ц'.title() or 'ч'.title() or 'ш'.title() or 'щ'.title() or
+        'a'.title() or 'y'.title() or 'o'.title() or 'ы'.title() or 'э'.title() or 'я'.title() or 'ю'.title() or 'ё'.title() or 'и'.title() or 'e'.title()]
+#
+#     for data in dates:
+#         new.append([str(data).replace(char, '') for char in alpha if char in str(data)])
+#
+#         if str(data).count('Ч'):
+#             li.append(str(data).replace('Ч', ''))
+#         else:
+#             li.append(data)
 
-
-def remove_non_ascii(text):
-    """Удаляет все ASCII символы из строки."""
-    return ''.join(char for char in text if ord(char) < 128)
-
-
-def clean_json(json_data):
-    """Удаляет ASCII символы из значений в JSON данных."""
-    if isinstance(json_data, dict):
-        return {key: clean_json(value) for key, value in json_data.items()}
-    elif isinstance(json_data, list):
-        return [clean_json(item) for item in json_data]
-    elif isinstance(json_data, str):
-        return remove_non_ascii(json_data)
-    else:
-        return json_data
-
-
-def process_json_file(input_file, output_file):
-    """Читает JSON файл, удаляет ASCII символы и записывает обновленные данные в новый JSON файл."""
-    with open(input_file, 'rb') as f:
-        for encoding in ['utf-8', 'utf-16', 'latin-1']:  # Попробуйте различные кодировки
-            try:
-                data = f.read().decode(encoding)
-                break
-            except UnicodeDecodeError:
-                pass
-        else:
-            raise UnicodeDecodeError("Не удалось прочитать файл в поддерживаемых кодировках.")
-
-    cleaned_data = clean_json(json.loads(data))
-
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(cleaned_data, f, ensure_ascii=False, indent=4)
-
-
-# Пример использования:
-input_file = 'mydata.json'
-output_file = 'newdata.json'
-process_json_file(input_file, output_file)
-print("ASCII символы удалены из файла и сохранены в", output_file)
+with open('suodata.json', 'r', encoding='utf-8') as f:
+    dates = json.load(f)
+    for date in dates:
+        print(date)
+#     for data in dates:
+#         print(data)
+# for data in dates:
+#     if str(data).count('Ч'):
+#         data = str(data).replace('Ч', '')
+#
+# with open('newdata.json', 'w', encoding='utf-8') as file:
+#     json.dump(dates, file, ensure_ascii=False, indent=4)
