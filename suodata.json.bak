@@ -72,7 +72,7 @@
             "url": "https://www.work.ua/jobs/5536195/",
             "title": "Python Developer",
             "company": "No name",
-            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             Requirements: Bachelor's or Master's degree in Computer Science, Engineering, or a related field; Commercial experience with Python from the 1st year; Experience with MySQL/PostgreSQL/MongoDB or other databases;",
+            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             Requirements: Bachelor's or Master's degree in Computer Science, Engineering, or a related field; Commercial experience with Python from the 1st year; Experience with MySQL/PostgreSQL/MongoDB or other databases;Е",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -85,7 +85,7 @@
             "url": "https://www.work.ua/jobs/4913105/",
             "title": "Middle Python Developer in Test (Malevich)",
             "company": "No name",
-            "description": "Full employment. They are also ready to take a student. Work experience from 2 years.\r\n                             Ajax Systems is a developer and manufacturer of Ajax wireless security systems with smart home capabilities. This is a whole ecosystem of 36 devices, mobile and desktop applications, server infrastructure. In the Ajax line",
+            "description": "Full employment. They are also ready to take a student. Work experience from 2 years.\r\n                             Ajax Systems is a developer and manufacturer of Ajax wireless security systems with smart home capabilities. This is a whole ecosystem of 36 devices, mobile and desktop applications, server infrastructure. In the Ajax lineЕ",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -111,7 +111,7 @@
             "url": "https://www.work.ua/jobs/5532805/",
             "title": "Web Scraping Data Engineer",
             "company": "No name",
-            "description": "Full time, part time. Work experience from 2 years.\r\n                             Web Scraping Engineer We are looking for a talented and energetic Web Scraping Engineer to join our team at 4Square Capital. You are responsible for collecting data from the Internet by",
+            "description": "Full time, part time. Work experience from 2 years.\r\n                             Web Scraping Engineer We are looking for a talented and energetic Web Scraping Engineer to join our team at 4Square Capital. You are responsible for collecting data from the Internet byЕ",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -150,7 +150,7 @@
             "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/257516/?from=list_hot",
             "title": "Senior Python Machine Learning Engineer",
             "company": "EPAM",
-            "description": "\n\t\t\t\tWeare seeking ahighly skilled and motivated Python Machine Learning Engineer with extensive experience designing, developing and deploying Machine Learning models and NLP applications.\n\t\t\t",
+            "description": "\n\t\t\t\tWeаare seeking aаhighly skilled and motivated Python Machine Learning Engineer with extensive experience designing, developing and deploying Machine Learning models and NLP applications.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -162,8 +162,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/globaldevgroup/vacancies/259399/",
             "title": "Automation QA Engineer (Python)",
-            "company": "Globaldev Group",
-            "description": "\n\t\t\t\tYou will work inaninnovative and dynamic fintech startup that aims tohelp employees, who are living paycheck-to-paycheck, navigate their cash flow and reduce financial stress, the same way autopilot reduces drivers stress.\n\t\t\t",
+            "company": "аGlobaldev Group",
+            "description": "\n\t\t\t\tYou will work inаanаinnovative and dynamic fintech startup that aims toаhelp employees, who are living paycheck-to-paycheck, navigate their cash flow and reduce financial stress, the same way autopilot reduces driversТ stress.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -182,19 +182,7 @@
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1121,
-        "fields": {
-            "url": "https://jobs.dou.ua/companies/ust/vacancies/259236/",
-            "title": "Full Stack Engineer (React, Python)",
-            "company": "UST Ukraine",
-            "description": "\n\t\t\t\tUST UAislooking for Senior Full Stack Engineer with Python expertise tobuild anAIportal.\n\nWork hours: overlap required (till 20:00 22:00approx.).\n\nLocation: Ukraine, Poland.\n\nRequirements:\n\n\n\nHTML, JavaScript, CSS, ReactJS.\n\nAWS (Lambda, APIGateway, S3).\n\nPython.\n\t\t\t",
-            "city": 1,
-            "language": 1,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1121, 'fields': {'url': 'https://jobs.dou.ua/companies/ust/vacancies/259236/', 'title': 'Full Stack Engineer (React, Python)', 'company': 'аUST Ukraine', 'description': '\\n\\t\\t\\t\\tUST UAаisаlooking for Senior Full Stack Engineer with Python expertise toаbuild anаAIаportal.\\n\\nWork hours: overlap required (till 20:00а 22:00аapprox.).\\n\\nLocation: Ukraine, Poland.\\n\\nRequirements:\\n\\n\\n\\nHTML, JavaScript, CSS, ReactJS.\\n\\nAWS (Lambda, APIаGateway, S3).\\n\\nPython.\\n\\t\\t\\t', 'city': 1, 'language': 1, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1122,
@@ -202,7 +190,7 @@
             "url": "https://jobs.dou.ua/companies/sps-ukraine/vacancies/253227/",
             "title": "Senior Software Engineer (Python)",
             "company": "SPS Ukraine",
-            "description": "What WeExpect ofYou:  Weare adding toour engineering staff inour Kyiv office towork with and support our engineering community inUkraine and the US.",
+            "description": "What WeаExpect ofаYou:  Weаare adding toаour engineering staff inаour Kyiv office toаwork with and support our engineering community inаUkraine and the US.",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -228,7 +216,7 @@
             "url": "https://jobs.dou.ua/companies/sky-fortress-skai-fortres/vacancies/259138/",
             "title": "Python Developer",
             "company": "Sky Fortress",
-            "description": "3+years experience with Python 3  Deep knowledges with:  async programming concepts (multiprocessing/threading, queues, events, memory sharing)  external interface calls: http, subprocess, pyserial, spidev, smbus, interrupts handling Bash scripting Code.",
+            "description": "3+аyears experience with Python 3  Deep knowledges with:  async programming concepts (multiprocessing/threading, queues, events, memory sharing)  external interface calls: http, subprocess, pyserial, spidev, smbus, interrupts handling Bash scripting Code.",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -240,8 +228,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/synergetica/vacancies/255984/",
             "title": "Senior Python Developer",
-            "company": "Synergetica",
-            "description": "\n\t\t\t\tOur customer isdeveloping acomplex system for the security and monitoring ofthe mining industry with extensive usage ofAI and sensors placed onvarious equipment.\n\t\t\t",
+            "company": "аSynergetica",
+            "description": "\n\t\t\t\tOur customer isаdeveloping aаcomplex system for the security and monitoring ofаthe mining industry with extensive usage ofаAI and sensors placed onаvarious equipment.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -253,7 +241,7 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/intetics-co/vacancies/259046/",
             "title": "Senior ML Engineer",
-            "company": "Intetics",
+            "company": "аIntetics",
             "description": "\n\t\t\t\tIntetics Inc.\n\t\t\t",
             "city": 1,
             "language": 1,
@@ -266,8 +254,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/ajax-systems/vacancies/244873/",
             "title": "Senior Python Developer in Test",
-            "company": "Ajax Systems",
-            "description": "\n\t\t\t\tAbout project\n\nAjax isanecosystem whose work isimpossible without high-quality and easy-to-use applications. Manual testers and the automation team are responsible for the operation ofthis part ofthe Ajax world.\n\t\t\t",
+            "company": "аAjax Systems",
+            "description": "\n\t\t\t\tAbout project\n\nAjax isаanаecosystem whose work isаimpossible without high-quality and easy-to-use applications. Manual testers and the automation team are responsible for the operation ofаthis part ofаthe Ajax world.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -286,27 +274,15 @@
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1129,
-        "fields": {
-            "url": "https://jobs.dou.ua/companies/nestlogic/vacancies/215175/",
-            "title": "Software Engineer",
-            "company": "Nestlogic",
-            "description": "Requirements:\r\ngood knowledge and experience with Python 3\r\ngood understanding ofsoftware development process\r\nfamiliarity with docker containers\r\nunderstanding ofsome environment Linux, Kubernetes, some public cloud\r\nWould beaplus:\r\nfamiliarity with cloud services...",
-            "city": 1,
-            "language": 1,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1129, 'fields': {'url': 'https://jobs.dou.ua/companies/nestlogic/vacancies/215175/', 'title': 'Software Engineer', 'company': 'Nestlogic', 'description': 'Requirements:\\r\\ngood knowledge and experience with Python 3\\r\\ngood understanding ofаsoftware development process\\r\\nfamiliarity with docker containers\\r\\nunderstanding ofаsome environmentа Linux, Kubernetes, some public cloud\\r\\nWould beаaаplus:\\r\\nfamiliarity with cloud services...', 'city': 1, 'language': 1, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1130,
         "fields": {
             "url": "https://jobs.dou.ua/companies/quantum/vacancies/246370/",
             "title": "Senior Python UAV Developer (Only Kyiv location)",
-            "company": "Quantum",
-            "description": "\n\t\t\t\tQuantum isaglobal technology partner delivering high-end software products that address real-world problems. \n\nWeadvance emerging technologies for outside-the-box solutions. Wefocus onMachine Learning, Computer Vision, Deep Learning, GIS, MLOps, Blockchain, and more.\n\t\t\t",
+            "company": "аQuantum",
+            "description": "\n\t\t\t\tQuantum isаaаglobal technology partner delivering high-end software products that address real-world problems. \n\nWeаadvance emerging technologies for outside-the-box solutions. Weаfocus onаMachine Learning, Computer Vision, Deep Learning, GIS, MLOps, Blockchain, and more.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -332,7 +308,7 @@
             "url": "https://jobs.dou.ua/companies/softconstruct-ukraine/vacancies/255208/",
             "title": "Senior Python Software Engineer (Data Platform)",
             "company": "SoftConstruct Ukraine",
-            "description": "\n\t\t\t\tSoftConstruct Ukraine isalarge product company with Armenian roots. Wedevelop solutions inthe fields ofBig Data, Data Science and CryptoExchange.\n\t\t\t",
+            "description": "\n\t\t\t\tSoftConstruct Ukraine isаaаlarge product company with Armenian roots. Weаdevelop solutions inаthe fields ofаBig Data, Data Science and CryptoExchange.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -345,7 +321,7 @@
             "url": "https://jobs.dou.ua/companies/softconstruct-ukraine/vacancies/253128/",
             "title": "Lead Python Software Engineer (KYC)",
             "company": "SoftConstruct Ukraine",
-            "description": "\n\t\t\t\tSoftConstruct Ukraine isalarge product company with Armenian roots. Wedevelop solutions inthe fields ofBig Data, Data Science and CryptoExchange.\n\t\t\t",
+            "description": "\n\t\t\t\tSoftConstruct Ukraine isаaаlarge product company with Armenian roots. Weаdevelop solutions inаthe fields ofаBig Data, Data Science and CryptoExchange.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -370,8 +346,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/yalantis/vacancies/240514/",
             "title": "Senior Python developer",
-            "company": "Yalantis",
-            "description": "\n\t\t\t\tWere looking for anexperienced Python developer tojoin our team.\n\t\t\t",
+            "company": "аYalantis",
+            "description": "\n\t\t\t\tWeТre looking for anаexperienced Python developer toаjoin our team.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -383,8 +359,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/plvision/vacancies/251628/",
             "title": "QA Automation Engineer (Networking)",
-            "company": "PLVision",
-            "description": "\n\t\t\t\tPLVision islooking for aQA (Quality Assurance) Automation Engineer with excellent knowledge ofPython and Bash, aswell ashands-on experience with Layer 2/Layer 3protocols testing.\n\t\t\t",
+            "company": "аPLVision",
+            "description": "\n\t\t\t\tPLVision isаlooking for aаQA (Quality Assurance) Automation Engineer with excellent knowledge ofаPython and Bash, asаwell asаhands-on experience with Layer 2/Layer 3аprotocols testing.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -396,8 +372,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/plvision/vacancies/247329/",
             "title": "QA Automation Architect (Networking)",
-            "company": "PLVision",
-            "description": "\n\t\t\t\tWeare looking for aQuality Assurance Architect with in-depth knowledge ofPython and strong understanding ofnetworking technologies tojoin PLVision.\n\t\t\t",
+            "company": "аPLVision",
+            "description": "\n\t\t\t\tWeаare looking for aаQuality Assurance Architect with in-depth knowledge ofаPython and strong understanding ofаnetworking technologies toаjoin PLVision.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -423,7 +399,7 @@
             "url": "https://ua.jooble.org/jdp/856636860597765146?ckey=python&rgn=1&pos=2&elckey=2059886265087594037&pageType=21&p=1&sid=2213935394393212635&jobAge=37&relb=100&brelb=100&bscr=37910.28838216038&scr=37910.28838216038&searchTestGroup=1_2_1&iid=-2905904753836599846",
             "title": "Data Engineer",
             "company": "OpenMinds",
-            "description": "...Technology, or a related field;\r\n\r\n\r\n~A minimum of 3 years of experience as a Data Engineer or in a similar role;\r\n\r\n\r\n~Proficiency in SQL, Python, and other relevant programming languages, with experience in big data technologies such as Hadoop, Spark, or similar;\r\n\r\n\r\n~...",
+            "description": "а...Technology, or a related field;\r\n\r\n\r\n~A minimum of 3 years of experience as a Data Engineer or in a similar role;\r\n\r\n\r\n~Proficiency in SQL, Python, and other relevant programming languages, with experience in big data technologies such as Hadoop, Spark, or similar;\r\n\r\n\r\n~...а",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -500,7 +476,7 @@
         "fields": {
             "url": "https://ua.jooble.org/desc/-1808860975984230995?ckey=python&rgn=1&pos=1&pageType=21&p=1&jobAge=157&brelb=100&recId=4437745908499924606&iRecId=-8701379564678790610",
             "title": "software engineer",
-            "company": "''",
+            "company": "Not info",
             "description": "Description\r\n  Programmer engineer 1 cat.\r\nThe work of a system administrator.\r\nMore details during the interview. Profession:\r\n  software engineer Mode of work:\r\n5-day work week",
             "city": 1,
             "language": 1,
@@ -540,7 +516,7 @@
             "url": "https://ua.jooble.org/desc/-2344386652922539501?ckey=python&rgn=1&pos=9&elckey=2059886265087594037&pageType=21&p=1&sid=2213935394393212635&jobAge=205&relb=115&brelb=115&bscr=25049.322832254227&scr=25049.322832254227&searchTestGroup=1_2_1&iid=8602233166409214965",
             "title": "Junior Strong Python Engineer",
             "company": "Geniusee",
-            "description": "...Junior Strong Python Engineer \r\n Our mission atGeniusee istohelp businesses thrive through tech partnership and strengthen the engineering community bysharing knowledge and creating opportunities&##127807;\r\n Our values are Continuous Growth, Team...",
+            "description": "...Junior Strong Python Engineer \r\n Our mission atаGeniusee isаtoаhelp businesses thrive through tech partnership and strengthen the engineering community byаsharing knowledge and creating opportunities&##127807;\r\n Our values are Continuous Growth, Team...",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -553,7 +529,7 @@
             "url": "https://ua.jooble.org/desc/-237571892781921856?ckey=python&rgn=1&pos=10&elckey=2059886265087594037&pageType=21&p=1&sid=2213935394393212635&jobAge=1765&relb=100&brelb=100&bscr=24434.15664243636&scr=24434.15664243636&searchTestGroup=1_2_1&iid=3595862507739950572",
             "title": "C/C++ Developer",
             "company": "Umma Life",
-            "description": "...of cryptography, decentralized networks, and open source. \r\n Familiarity with Linux systems is a plus. \r\n Additional proficiency in Python is a plus. \r\n Responsibilities: \r\n Collaborate with cross-functional teams to design, develop, and maintain software solutions...",
+            "description": "а...of cryptography, decentralized networks, and open source. \r\n Familiarity with Linux systems is a plus. \r\n Additional proficiency in Python is a plus. \r\n Responsibilities: \r\n Collaborate with cross-functional teams to design, develop, and maintain software solutions...а",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -579,7 +555,7 @@
             "url": "https://ua.jooble.org/desc/4711899352922401875?ckey=python&rgn=1&pos=12&elckey=2059886265087594037&pageType=21&p=1&sid=2213935394393212635&jobAge=517&relb=115&brelb=115&bscr=24296.893978659762&scr=24296.893978659762&searchTestGroup=1_2_1&iid=-785631952545354059",
             "title": "C++ Developer",
             "company": "Visonic, Tyco International Company",
-            "description": "...Experience with Boost, Apache Thrift, RabbitMQ, MQTT isaplus; \r\n Familiarity with version control systems (Git); \r\n Knowledge ofPython, Bash scripting; \r\n Deep knowledge ofLinux internals. \r\n Experience with Docker, Kubernetes, AWS. \r\n Stack oftechnologies used...",
+            "description": "а...Experience with Boost, Apache Thrift, RabbitMQ, MQTT isаaаplus; \r\nХ Familiarity with version control systems (Git); \r\nХ Knowledge ofаPython, Bash scripting; \r\nХ Deep knowledge ofаLinux internals. \r\nХ Experience with Docker, Kubernetes, AWS. \r\n Stack ofаtechnologies used...а",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -759,7 +735,7 @@
         "pk": 1165,
         "fields": {
             "url": "https://www.ria.com/rabota-programist-c-linux-169628105.html",
-            "title": " C++ Linux",
+            "title": "╧ЁюуЁрь│ёЄ C++ Linux",
             "company": "EPAM",
             "description": "No data",
             "city": 1,
@@ -865,7 +841,7 @@
             "url": "https://ua.jooble.org/jdp/856636860597765146?ckey=python&rgn=1&pos=2&elckey=2640446202660750865&pageType=21&p=1&sid=8871729193301803937&jobAge=37&relb=100&brelb=100&bscr=37910.28838216038&scr=37910.28838216038&searchTestGroup=1_2_1&iid=-8233178395138758052",
             "title": "Data Engineer",
             "company": "OpenMinds",
-            "description": "...Technology, or a related field;\r\n\r\n\r\n~A minimum of 3 years of experience as a Data Engineer or in a similar role;\r\n\r\n\r\n~Proficiency in SQL, Python, and other relevant programming languages, with experience in big data technologies such as Hadoop, Spark, or similar;\r\n\r\n\r\n~...",
+            "description": "а...Technology, or a related field;\r\n\r\n\r\n~A minimum of 3 years of experience as a Data Engineer or in a similar role;\r\n\r\n\r\n~Proficiency in SQL, Python, and other relevant programming languages, with experience in big data technologies such as Hadoop, Spark, or similar;\r\n\r\n\r\n~...а",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -942,7 +918,7 @@
         "fields": {
             "url": "https://ua.jooble.org/desc/-1808860975984230995?ckey=python&rgn=1&pos=1&pageType=21&p=1&jobAge=157&brelb=100&recId=-4033575654747457&iRecId=7686704373736640619",
             "title": "software engineer",
-            "company": "''",
+            "company": "Not info",
             "description": "Description\r\n  Programmer engineer 1 cat.\r\nThe work of a system administrator.\r\nMore details during the interview. Profession:\r\n  software engineer Mode of work:\r\n5-day work week",
             "city": 1,
             "language": 1,
@@ -982,7 +958,7 @@
             "url": "https://ua.jooble.org/desc/-2344386652922539501?ckey=python&rgn=1&pos=9&elckey=2640446202660750865&pageType=21&p=1&sid=8871729193301803937&jobAge=205&relb=115&brelb=115&bscr=25049.322832254227&scr=25049.322832254227&searchTestGroup=1_2_1&iid=-5908973476166273113",
             "title": "Junior Strong Python Engineer",
             "company": "Geniusee",
-            "description": "...Junior Strong Python Engineer \r\n Our mission atGeniusee istohelp businesses thrive through tech partnership and strengthen the engineering community bysharing knowledge and creating opportunities&##127807;\r\n Our values are Continuous Growth, Team...",
+            "description": "...Junior Strong Python Engineer \r\n Our mission atаGeniusee isаtoаhelp businesses thrive through tech partnership and strengthen the engineering community byаsharing knowledge and creating opportunities&##127807;\r\n Our values are Continuous Growth, Team...",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -995,7 +971,7 @@
             "url": "https://ua.jooble.org/desc/-237571892781921856?ckey=python&rgn=1&pos=10&elckey=2640446202660750865&pageType=21&p=1&sid=8871729193301803937&jobAge=1765&relb=100&brelb=100&bscr=24434.15664243636&scr=24434.15664243636&searchTestGroup=1_2_1&iid=8123839137223665002",
             "title": "C/C++ Developer",
             "company": "Umma Life",
-            "description": "...of cryptography, decentralized networks, and open source. \r\n Familiarity with Linux systems is a plus. \r\n Additional proficiency in Python is a plus. \r\n Responsibilities: \r\n Collaborate with cross-functional teams to design, develop, and maintain software solutions...",
+            "description": "а...of cryptography, decentralized networks, and open source. \r\n Familiarity with Linux systems is a plus. \r\n Additional proficiency in Python is a plus. \r\n Responsibilities: \r\n Collaborate with cross-functional teams to design, develop, and maintain software solutions...а",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -1021,7 +997,7 @@
             "url": "https://ua.jooble.org/desc/4711899352922401875?ckey=python&rgn=1&pos=12&elckey=2640446202660750865&pageType=21&p=1&sid=8871729193301803937&jobAge=517&relb=115&brelb=115&bscr=24296.893978659762&scr=24296.893978659762&searchTestGroup=1_2_1&iid=-4885544093132677529",
             "title": "C++ Developer",
             "company": "Visonic, Tyco International Company",
-            "description": "...Experience with Boost, Apache Thrift, RabbitMQ, MQTT isaplus; \r\n Familiarity with version control systems (Git); \r\n Knowledge ofPython, Bash scripting; \r\n Deep knowledge ofLinux internals. \r\n Experience with Docker, Kubernetes, AWS. \r\n Stack oftechnologies used...",
+            "description": "а...Experience with Boost, Apache Thrift, RabbitMQ, MQTT isаaаplus; \r\nХ Familiarity with version control systems (Git); \r\nХ Knowledge ofаPython, Bash scripting; \r\nХ Deep knowledge ofаLinux internals. \r\nХ Experience with Docker, Kubernetes, AWS. \r\n Stack ofаtechnologies used...а",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -1034,7 +1010,7 @@
             "url": "https://www.work.ua/jobs/3209750/",
             "title": "Senior Java Developer",
             "company": "No name",
-            "description": "Full employment. Work experience from 5 years. Higher Education.\r\nWe are looking for a person, possessing: 5-10 years of experience in IT software development; including 3 4 years of Java development; CORE Java (Collections, multithreading, exception handling); J2EE, Servlets,",
+            "description": "Full employment. Work experience from 5 years. Higher Education.\r\nWe are looking for a person, possessing: 5-10 years of experience in IT software development; including 3 4 years of Java development; CORE Java (Collections, multithreading, exception handling); J2EE, Servlets,Е",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1046,47 +1022,23 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/delasport/vacancies/251859/?from=list_hot",
             "title": "Senior QA Automation Engineer (Java)",
-            "company": "Delasport",
-            "description": "\n\t\t\t\tDelasport isaniGaming Software company providing Sports Betting &Online Casino software, and turnkey B2B solutions.\n\t\t\t",
+            "company": "аDelasport",
+            "description": "\n\t\t\t\tDelasport isаanаiGaming Software company providing Sports Betting &аOnline Casino software, and turnkey B2B solutions.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1188,
-        "fields": {
-            "url": "https://jobs.dou.ua/companies/delasport/vacancies/229640/?from=list_hot",
-            "title": "Senior Java Developer",
-            "company": "Delasport",
-            "description": "\n\t\t\t\tDelasport Implementing Technological Solutions Here and Now.\n\n\n\nDelasport isaniGaming Software company providing Sports Betting &Online Casino software, and turnkey B2B solutions.\n\t\t\t",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1189,
-        "fields": {
-            "url": "https://jobs.dou.ua/companies/megogonet-/vacancies/236575/",
-            "title": "Java Team Lead",
-            "company": "MEGOGO",
-            "description": "\n\t\t\t\tOur ideal candidate:\n\n\n\n6+years ofexperience inJava software development;\n\n2+years ofexperience leading software engineering teams;\n\nJava/Kotlin;\n\nKnows frameworks (Spring/Mybatis/Netty);\n\nBuild tools Maven, Jenkins;\n\nReactive frameworks RxJava/Reactor;\n\nDeep SQL knowledge...\n\t\t\t",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1188, 'fields': {'url': 'https://jobs.dou.ua/companies/delasport/vacancies/229640/?from=list_hot', 'title': 'Senior Java Developer', 'company': 'аDelasport', 'description': '\\n\\t\\t\\t\\tDelasportа Implementing Technological Solutions Here and Now.\\n\\n\\n\\nDelasport isаanаiGaming Software company providing Sports Betting &аOnline Casino software, and turnkey B2B solutions.\\n\\t\\t\\t', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
+    "{'model': 'scraping.vacancy', 'pk': 1189, 'fields': {'url': 'https://jobs.dou.ua/companies/megogonet-/vacancies/236575/', 'title': 'Java Team Lead', 'company': 'аMEGOGO', 'description': '\\n\\t\\t\\t\\tOur ideal candidate:\\n\\n\\n\\n6+аyears ofаexperience inаJava software development;\\n\\n2+аyears ofаexperience leading software engineering teams;\\n\\nJava/Kotlin;\\n\\nKnows frameworks (Spring/Mybatis/Netty);\\n\\nBuild toolsа Maven, Jenkins;\\n\\nReactive frameworks RxJava/Reactor;\\n\\nDeep SQL knowledge...\\n\\t\\t\\t', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1190,
         "fields": {
             "url": "https://jobs.dou.ua/companies/nortal/vacancies/255741/",
             "title": "Senior Full Stack Developer (Java + Node.js), SK-1225",
-            "company": "Nortal",
-            "description": "\n\t\t\t\tNortal islooking for aSenior Full Stack Developer for long term and full-time employment! Inthis role, you will beresponsible for developing and maintaining complex web applications, using arange oftechnologies including AWS, Node.js, Java, and reactive frontend technologies.\n\t\t\t",
+            "company": "аNortal",
+            "description": "\n\t\t\t\tNortal isаlooking for aаSenior Full Stack Developer for long term and full-time employment! Inаthis role, you will beаresponsible for developing and maintaining complex web applications, using aаrange ofаtechnologies including AWS, Node.js, Java, and reactive frontend technologies.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1098,8 +1050,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/spd-technology/vacancies/259229/",
             "title": "Senior Java Engineer (UA location)",
-            "company": "SPD Technology",
-            "description": "\n\t\t\t\tAtSPDTechnology, webring together ateam oflike-minded people who are driven bythe desire tobring value through their work, united intheir commitment tohigh performance and delivering custom, cutting-edge tech solutions that drive clients growth.\n\t\t\t",
+            "company": "аSPD Technology",
+            "description": "\n\t\t\t\tAtаSPDаTechnology, weаbring together aаteam ofаlike-minded people who are driven byаthe desire toаbring value through their work, united inаtheir commitment toаhigh performance and delivering custom, cutting-edge tech solutions that drive clientsТ growth.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1112,25 +1064,13 @@
             "url": "https://jobs.dou.ua/companies/agileengine/vacancies/259171/",
             "title": "Middle Java Developer",
             "company": "AgileEngine",
-            "description": "The position isopen for candidates inthe whole country; \r\nWhat You Will Do\r\nProduct development ofRecords Management System (RMS) and related sub-products, enhancing usability, quality, and feature set;\r\nCollaborate with Product Management tounderstand requirements,...",
+            "description": "The position isаopen for candidates inаthe whole country; \r\nWhat You Will Do\r\nProduct development ofаRecords Management System (RMS) and related sub-products, enhancing usability, quality, and feature set;\r\nCollaborate with Product Management toаunderstand requirements,...",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1193,
-        "fields": {
-            "url": "https://jobs.dou.ua/companies/playtika-ua/vacancies/259153/",
-            "title": "Java Tech Lead  HOF",
-            "company": "Playtika",
-            "description": "\n\t\t\t\tAsaJava Tech Lead, you will embody leadership byexample inarole tailored for aseasoned technical expert.\n\t\t\t",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1193, 'fields': {'url': 'https://jobs.dou.ua/companies/playtika-ua/vacancies/259153/', 'title': 'Java Tech Lead  HOF', 'company': 'аPlaytika', 'description': '\\n\\t\\t\\t\\tAsаaаJava Tech Lead, you will embody leadership byаexample inаaаrole tailored for aаseasoned technical expert.\\n\\t\\t\\t', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1194,
@@ -1138,7 +1078,7 @@
             "url": "https://jobs.dou.ua/companies/delasport/vacancies/245071/",
             "title": "Middle Java Developer",
             "company": "Delasport",
-            "description": "Delasport isaniGaming Software company providing Sports Betting &Online Casino software, and turnkey B2B solutions.",
+            "description": "Delasport isаanаiGaming Software company providing Sports Betting &аOnline Casino software, and turnkey B2B solutions.",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1163,8 +1103,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/delasport/vacancies/255412/",
             "title": "Senior Java Developer [Kafka Streams]",
-            "company": "Delasport",
-            "description": "\n\t\t\t\tDelasport isaniGaming Software company providing Sports Betting &Online Casino software, and turnkey B2B solutions.\n\t\t\t",
+            "company": "аDelasport",
+            "description": "\n\t\t\t\tDelasport isаanаiGaming Software company providing Sports Betting &аOnline Casino software, and turnkey B2B solutions.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1176,34 +1116,22 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/delasport/vacancies/247571/",
             "title": "Middle QA Automation Engineer (Java, full-time office, Kyiv)",
-            "company": "Delasport",
-            "description": "\n\t\t\t\tDelasport isaniGaming Software company providing Sports Betting &Online Casino software, and turnkey B2B solutions.\n\t\t\t",
+            "company": "аDelasport",
+            "description": "\n\t\t\t\tDelasport isаanаiGaming Software company providing Sports Betting &аOnline Casino software, and turnkey B2B solutions.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1198,
-        "fields": {
-            "url": "https://jobs.dou.ua/companies/fiverr/vacancies/124740/",
-            "title": "Senior Backend Software Engineer",
-            "company": "FIVERR",
-            "description": "\n\t\t\t\t5+years ofexperience inweb development and design\nBSc.inCS, engineering, orequivalent\nVery strong coding abilities inatleast one modern language Kotlin, Java, Node.JS, Ruby, Python, orsimilar.\n\t\t\t",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1198, 'fields': {'url': 'https://jobs.dou.ua/companies/fiverr/vacancies/124740/', 'title': 'Senior Backend Software Engineer', 'company': 'аFIVERR', 'description': '\\n\\t\\t\\t\\t5+аyears ofаexperience inаweb development and design\\nBSc.аinаCS, engineering, orаequivalent\\nVery strong coding abilities inаatаleast one modern languageа Kotlin, Java, Node.JS, Ruby, Python, orаsimilar.\\n\\t\\t\\t', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1199,
         "fields": {
             "url": "https://jobs.dou.ua/companies/lotusflare/vacancies/245066/",
             "title": "Software/Server Engineer",
-            "company": "LotusFlare",
-            "description": "\n\t\t\t\tLotusFlare has always been about making animpact through software products and changing industries for the better bysimplifying technology soastosimplify customer experience.\n\t\t\t",
+            "company": "аLotusFlare",
+            "description": "\n\t\t\t\tLotusFlare has always been about making anаimpact through software products and changing industries for the better byаsimplifying technology soаasаtoаsimplify customer experience.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1215,8 +1143,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/avenga/vacancies/258634/",
             "title": "Senior Apigee Engineer",
-            "company": "Avenga",
-            "description": "\n\t\t\t\tAvenga islooking for askilled Apigee Engineer tobecome apart ofour team. Our client isaprominent insurance company inSaudi Arabia, committed todelivering first-class insurance solutions that resonate with the Kingdoms 2030Vision.\n\t\t\t",
+            "company": "аAvenga",
+            "description": "\n\t\t\t\tAvenga isаlooking for aаskilled Apigee Engineer toаbecome aаpart ofаour team. Our client isаaаprominent insurance company inаSaudi Arabia, committed toаdelivering first-class insurance solutions that resonate with the KingdomТs 2030аVision.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1228,8 +1156,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/spd-technology/vacancies/258610/",
             "title": "Senior SDET (Java)",
-            "company": "SPD Technology",
-            "description": "\n\t\t\t\tAtSPDTechnology, webring together ateam oflike-minded people who are driven bythe desire tobring value through their work, united intheir commitment tohigh performance and delivering custom, cutting-edge tech solutions that drive clients growth.\n\t\t\t",
+            "company": "аSPD Technology",
+            "description": "\n\t\t\t\tAtаSPDаTechnology, weаbring together aаteam ofаlike-minded people who are driven byаthe desire toаbring value through their work, united inаtheir commitment toаhigh performance and delivering custom, cutting-edge tech solutions that drive clientsТ growth.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1241,8 +1169,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/spd-technology/vacancies/258593/",
             "title": "Engineering Manager (Java stack), PitchBook",
-            "company": "SPD Technology",
-            "description": "\n\t\t\t\tAboutus\n\nAtSPDTechnology, webring together ateam oflike-minded people who are driven bythe desire tobring value through their work, united intheir commitment tohigh performance and delivering custom, cutting-edge tech solutions that drive clients growth.\n\t\t\t",
+            "company": "аSPD Technology",
+            "description": "\n\t\t\t\tAboutаus\n\nAtаSPDаTechnology, weаbring together aаteam ofаlike-minded people who are driven byаthe desire toаbring value through their work, united inаtheir commitment toаhigh performance and delivering custom, cutting-edge tech solutions that drive clientsТ growth.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1254,8 +1182,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/abcloudz/vacancies/258575/",
             "title": "Java Tech Lead",
-            "company": "ABCloudz",
-            "description": "\n\t\t\t\tABCloudz islooking for apassionate and motivated Java Tech Lead capable ofimplementing backend tasks. Our ideal candidate has deep expertise inJava11, aswell asanability todesign and implement solutions for solving business and tech tasks.\n\t\t\t",
+            "company": "аABCloudz",
+            "description": "\n\t\t\t\tABCloudz isаlooking for aаpassionate and motivated Java Tech Lead capable ofаimplementing backend tasks. Our ideal candidate has deep expertise inаJavaа11, asаwell asаanаability toаdesign and implement solutions for solving business and tech tasks.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1280,8 +1208,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/delasport/vacancies/237632/",
             "title": "Junior Java Developer (full-time office job, Kyiv)",
-            "company": "Delasport",
-            "description": "\n\t\t\t\tDelasport isaniGaming Software company providing Sports Betting &Online Casino software, and turnkey B2B solutions.\n\t\t\t",
+            "company": "аDelasport",
+            "description": "\n\t\t\t\tDelasport isаanаiGaming Software company providing Sports Betting &аOnline Casino software, and turnkey B2B solutions.\n\t\t\t",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1294,7 +1222,7 @@
             "url": "https://jobs.dou.ua/companies/kyivstar-tech/vacancies/258155/",
             "title": "Backend Developer (Java)",
             "company": "Kyivstar.Tech",
-            "description": "Kyivstar.Tech islooking for aBackend Developer tojoin our Product Development Team.",
+            "description": "Kyivstar.Tech isаlooking for aаBackend Developer toаjoin our Product Development Team.",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1372,7 +1300,7 @@
             "url": "https://ua.jooble.org/desc/3905557096678610872?ckey=java&rgn=1&pos=6&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=37&relb=115&brelb=115&bscr=22665.841141605884&scr=22665.841141605884&searchTestGroup=1_2_1&iid=2148209470703030201",
             "title": "Manual QA Engineer",
             "company": "WebbyLab",
-            "description": "Manual QA Engineer \r\n WebbyLab  isaUkrainian IToutsourcing company. Wedevelop scalable and feature-rich Web and Mobile applications using NodeJs, React, React Native, PHP stack. Wehave successfully completed projects for Daimler Mercedes-Benz, Bayer...",
+            "description": "Manual QA Engineer \r\n WebbyLab  isаaаUkrainian ITаoutsourcing company. Weаdevelop scalable and feature-rich Web and Mobile applications using NodeJs, React, React Native, PHP stack. Weаhave successfully completed projects for Daimler Mercedes-Benz, Bayer...",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1385,7 +1313,7 @@
             "url": "https://ua.jooble.org/desc/-841567480957493759?ckey=java&rgn=1&pos=7&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=229&relb=115&brelb=115&bscr=22270.659465059318&scr=22270.659465059318&searchTestGroup=1_2_1&iid=-8600325156593909266",
             "title": "Manual QA",
             "company": "ULF FINANCE",
-            "description": "Manual QA \r\n About project: \r\n Key directions are invention ofnew ERP system, fintech and software solutions for the best leasing company onUkrainian market. The key area ofthe team istodevelop, update and support highload services. The services...",
+            "description": "Manual QA \r\n About project: \r\n Key directions are invention ofаnew ERP system, fintech and software solutions for the best leasing company onаUkrainian market. The key area ofаthe team isаtoаdevelop, update and support highload services. The services...",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1422,7 +1350,7 @@
         "pk": 1216,
         "fields": {
             "url": "https://ua.jooble.org/desc/-2690333126286015803?ckey=java&rgn=1&pos=3&pageType=21&p=1&jobAge=181&brelb=115&recId=-4066663517645398023&iRecId=2009680678758484384",
-            "title": "Developer 1",
+            "title": "Developer 1╤",
             "company": "MK Merchants",
             "description": "1C developer\r\n  Kyiv\r\n  Congratulations!\r\n  Get to know each other better? Especially since we have something to be proud of.\r\n  MK Merchants Ukraine is part of a multinational group of companies - MKM Group, with MK Merchants SA headquarters in Geneva, Switzerland and subsidiaries in Turkey, China and...",
             "city": 1,
@@ -1443,19 +1371,7 @@
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1218,
-        "fields": {
-            "url": "https://ua.jooble.org/desc/707897423315660241?ckey=java&rgn=1&pos=9&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=85&relb=115&brelb=115&bscr=21241.9680327839&scr=21241.9680327839&searchTestGroup=1_2_1&iid=7928432266883312254",
-            "title": "Manual QA Engineer",
-            "company": "Swivl",
-            "description": "Manual QA Engineer \r\n About the project \r\n AManual QAEngineer with experience inmanual and web testing tojoin our growing team inWarsaw (ahybrid model ofwork). You will beworking with Mirror anew tool made torealize the potential of...",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1218, 'fields': {'url': 'https://ua.jooble.org/desc/707897423315660241?ckey=java&rgn=1&pos=9&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=85&relb=115&brelb=115&bscr=21241.9680327839&scr=21241.9680327839&searchTestGroup=1_2_1&iid=7928432266883312254', 'title': 'Manual QA Engineer', 'company': 'Swivl', 'description': 'Manual QA Engineer \\r\\n About the project \\r\\n AаManual QAаEngineer with experience inаmanual and web testing toаjoin our growing team inаWarsaw (aаhybrid model ofаwork). You will beаworking with Mirrorа aаnew tool made toаrealize the potential of...', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1219,
@@ -1469,19 +1385,7 @@
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1220,
-        "fields": {
-            "url": "https://ua.jooble.org/desc/2223615280188961141?ckey=java&rgn=1&pos=11&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=613&relb=115&brelb=115&bscr=21184.290801608935&scr=21184.290801608935&searchTestGroup=1_2_1&iid=-5891605954754977238",
-            "title": "QA manual engineer",
-            "company": "Nestlogic",
-            "description": "QA manual engineer \r\n Weexpect: \r\n B.Sc inComputer Science. 2+years ofexperience writing tests Must Excellent analytical and problem-solving skills \r\n Strong knowledge ofQADocumentation and methodologies Must Experience with test management...",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1220, 'fields': {'url': 'https://ua.jooble.org/desc/2223615280188961141?ckey=java&rgn=1&pos=11&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=613&relb=115&brelb=115&bscr=21184.290801608935&scr=21184.290801608935&searchTestGroup=1_2_1&iid=-5891605954754977238', 'title': 'QA manual engineer', 'company': 'Nestlogic', 'description': 'QA manual engineer \\r\\n Weаexpect: \\r\\n B.Sc inаComputer Science. 2+аyears ofаexperience writing testsа Must Excellent analytical and problem-solving skills \\r\\n Strong knowledge ofаQAаDocumentation and methodologiesа Must Experience with test management...', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1221,
@@ -1502,7 +1406,7 @@
             "url": "https://ua.jooble.org/desc/1523122675325878624?ckey=java&rgn=1&pos=13&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=349&relb=115&brelb=115&bscr=21094.3952005312&scr=21094.3952005312&searchTestGroup=1_2_1&iid=-5675830140018104255",
             "title": "QA Automation Engineer",
             "company": "Kyivstar.Tech",
-            "description": "...role. \r\n Required skills: \r\n 3+years ofrelevant working experience; \r\n Great knowledge ofautomation tools (Selenium, Appium) and Java; \r\n JMeter, SOAP UIknowledge; \r\n Excellent knowledge ofmobile/web UImanual testing principles; \r\n Experience ofcomposing test...",
+            "description": "а...role. \r\n Required skills: \r\nХ 3+аyears ofаrelevant working experience; \r\nХ Great knowledge ofаautomation tools (Selenium, Appium) and Java; \r\nХ JMeter, SOAP UIаknowledge; \r\nХ Excellent knowledge ofаmobile/web UIаmanual testing principles; \r\nХ Experience ofаcomposing test...а",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1515,25 +1419,13 @@
             "url": "https://ua.jooble.org/desc/5863736892156286631?ckey=java&rgn=1&pos=14&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=130&relb=100&brelb=100&bscr=20988.250635114615&scr=20988.250635114615&searchTestGroup=1_2_1&iid=-5946188573982986956",
             "title": "Automation Tester",
             "company": "Unison Consulting Pte Ltd",
-            "description": "...Requirements \r\n \r\n Minimum of 5 years of professional experience in automation testing.   \r\n Proficiency in programming languages such as Java, Python, or C#.   \r\n Extensive experience with automated testing tools such as Selenium, Appium, or similar.   \r\n Strong...",
+            "description": "а...Requirements \r\n \r\n Minimum of 5 years of professional experience in automation testing.   \r\n Proficiency in programming languages such as Java, Python, or C#.   \r\n Extensive experience with automated testing tools such as Selenium, Appium, or similar.   \r\n Strong...а",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1224,
-        "fields": {
-            "url": "https://ua.jooble.org/desc/2005100523728692887?ckey=java&rgn=1&pos=15&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=541&relb=115&brelb=115&bscr=20855.45385608758&scr=20855.45385608758&searchTestGroup=1_2_1&iid=4508026693218519972",
-            "title": "Experienced Java Developer",
-            "company": "Transporeon",
-            "description": "...Experienced Java Developer \r\n AtTransporeon ATrimble Company weembrace transformation and change intotal sync with one another. Werethink, reinvent and rework ideas from one moment tothe next asmany times asisnecessary toget the job...",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1224, 'fields': {'url': 'https://ua.jooble.org/desc/2005100523728692887?ckey=java&rgn=1&pos=15&elckey=1023216291765509713&pageType=21&p=1&sid=-6843223444605929668&jobAge=541&relb=115&brelb=115&bscr=20855.45385608758&scr=20855.45385608758&searchTestGroup=1_2_1&iid=4508026693218519972', 'title': 'Experienced Java Developer', 'company': 'Transporeon', 'description': '...Experienced Java Developer \\r\\n AtаTransporeonа AаTrimble Companyа weаembrace transformation and change inаtotal sync with one another. Weаrethink, reinvent and rework ideas from one moment toаthe nextа asаmany times asаisаnecessary toаget the job...', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1225,
@@ -1697,7 +1589,7 @@
             "url": "https://ua.jooble.org/desc/3905557096678610872?ckey=java&rgn=1&pos=6&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=37&relb=115&brelb=115&bscr=22665.841141605884&scr=22665.841141605884&searchTestGroup=1_2_1&iid=-7261134728418664589",
             "title": "Manual QA Engineer",
             "company": "WebbyLab",
-            "description": "Manual QA Engineer \r\n WebbyLab  isaUkrainian IToutsourcing company. Wedevelop scalable and feature-rich Web and Mobile applications using NodeJs, React, React Native, PHP stack. Wehave successfully completed projects for Daimler Mercedes-Benz, Bayer...",
+            "description": "Manual QA Engineer \r\n WebbyLab  isаaаUkrainian ITаoutsourcing company. Weаdevelop scalable and feature-rich Web and Mobile applications using NodeJs, React, React Native, PHP stack. Weаhave successfully completed projects for Daimler Mercedes-Benz, Bayer...",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1710,7 +1602,7 @@
             "url": "https://ua.jooble.org/desc/-841567480957493759?ckey=java&rgn=1&pos=7&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=229&relb=115&brelb=115&bscr=22270.659465059318&scr=22270.659465059318&searchTestGroup=1_2_1&iid=-6683850168753190040",
             "title": "Manual QA",
             "company": "ULF FINANCE",
-            "description": " Manual QA \r\n About project: \r\n Key directions are invention ofnew ERP system, fintech and software solutions for the best leasing company onUkrainian market. The key area ofthe team istodevelop, update and support highload services. The services...",
+            "description": " Manual QA \r\n About project: \r\n Key directions are invention ofаnew ERP system, fintech and software solutions for the best leasing company onаUkrainian market. The key area ofаthe team isаtoаdevelop, update and support highload services. The services...",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1768,19 +1660,7 @@
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1243,
-        "fields": {
-            "url": "https://ua.jooble.org/desc/707897423315660241?ckey=java&rgn=1&pos=9&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=85&relb=115&brelb=115&bscr=21241.9680327839&scr=21241.9680327839&searchTestGroup=1_2_1&iid=3098912440061970168",
-            "title": "Manual QA Engineer",
-            "company": "Swivl",
-            "description": "Manual QA Engineer \r\n About the project \r\n AManual QAEngineer with experience inmanual and web testing tojoin our growing team inWarsaw (ahybrid model ofwork). You will beworking with Mirror anew tool made torealize the potential of...",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1243, 'fields': {'url': 'https://ua.jooble.org/desc/707897423315660241?ckey=java&rgn=1&pos=9&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=85&relb=115&brelb=115&bscr=21241.9680327839&scr=21241.9680327839&searchTestGroup=1_2_1&iid=3098912440061970168', 'title': 'Manual QA Engineer', 'company': 'Swivl', 'description': 'Manual QA Engineer \\r\\n About the project \\r\\n AаManual QAаEngineer with experience inаmanual and web testing toаjoin our growing team inаWarsaw (aаhybrid model ofаwork). You will beаworking with Mirrorа aаnew tool made toаrealize the potential of...', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1244,
@@ -1794,19 +1674,7 @@
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1245,
-        "fields": {
-            "url": "https://ua.jooble.org/desc/2223615280188961141?ckey=java&rgn=1&pos=11&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=613&relb=115&brelb=115&bscr=21184.290801608935&scr=21184.290801608935&searchTestGroup=1_2_1&iid=-7877870647882980124",
-            "title": "QA manual engineer",
-            "company": "Nestlogic",
-            "description": "QA manual engineer \r\n Weexpect: \r\n B.Sc inComputer Science. 2+years ofexperience writing tests Must Excellent analytical and problem-solving skills \r\n Strong knowledge ofQADocumentation and methodologies Must Experience with test management...",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1245, 'fields': {'url': 'https://ua.jooble.org/desc/2223615280188961141?ckey=java&rgn=1&pos=11&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=613&relb=115&brelb=115&bscr=21184.290801608935&scr=21184.290801608935&searchTestGroup=1_2_1&iid=-7877870647882980124', 'title': 'QA manual engineer', 'company': 'Nestlogic', 'description': 'QA manual engineer \\r\\n Weаexpect: \\r\\n B.Sc inаComputer Science. 2+аyears ofаexperience writing testsа Must Excellent analytical and problem-solving skills \\r\\n Strong knowledge ofаQAаDocumentation and methodologiesа Must Experience with test management...', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1246,
@@ -1827,7 +1695,7 @@
             "url": "https://ua.jooble.org/desc/1523122675325878624?ckey=java&rgn=1&pos=13&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=349&relb=115&brelb=115&bscr=21094.3952005312&scr=21094.3952005312&searchTestGroup=1_2_1&iid=-3947540167611118853",
             "title": "QA Automation Engineer",
             "company": "Kyivstar.Tech",
-            "description": "...role. \r\n Required skills: \r\n 3+years ofrelevant working experience; \r\n Great knowledge ofautomation tools (Selenium, Appium) and Java; \r\n JMeter, SOAP UIknowledge; \r\n Excellent knowledge ofmobile/web UImanual testing principles; \r\n Experience ofcomposing test...",
+            "description": "а...role. \r\n Required skills: \r\nХ 3+аyears ofаrelevant working experience; \r\nХ Great knowledge ofаautomation tools (Selenium, Appium) and Java; \r\nХ JMeter, SOAP UIаknowledge; \r\nХ Excellent knowledge ofаmobile/web UIаmanual testing principles; \r\nХ Experience ofаcomposing test...а",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1840,25 +1708,13 @@
             "url": "https://ua.jooble.org/desc/5863736892156286631?ckey=java&rgn=1&pos=14&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=130&relb=100&brelb=100&bscr=20988.250635114615&scr=20988.250635114615&searchTestGroup=1_2_1&iid=1153866451968761274",
             "title": "Automation Tester",
             "company": "Unison Consulting Pte Ltd",
-            "description": "...Requirements \r\n \r\n Minimum of 5 years of professional experience in automation testing.   \r\n Proficiency in programming languages such as Java, Python, or C#.   \r\n Extensive experience with automated testing tools such as Selenium, Appium, or similar.   \r\n Strong...",
+            "description": "а...Requirements \r\n \r\n Minimum of 5 years of professional experience in automation testing.   \r\n Proficiency in programming languages such as Java, Python, or C#.   \r\n Extensive experience with automated testing tools such as Selenium, Appium, or similar.   \r\n Strong...а",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1249,
-        "fields": {
-            "url": "https://ua.jooble.org/desc/2005100523728692887?ckey=java&rgn=1&pos=15&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=541&relb=115&brelb=115&bscr=20855.45385608758&scr=20855.45385608758&searchTestGroup=1_2_1&iid=2818204841298168042",
-            "title": "Experienced Java Developer",
-            "company": "Transporeon",
-            "description": "...Experienced Java Developer \r\n AtTransporeon ATrimble Company weembrace transformation and change intotal sync with one another. Werethink, reinvent and rework ideas from one moment tothe next asmany times asisnecessary toget the job...",
-            "city": 1,
-            "language": 2,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1249, 'fields': {'url': 'https://ua.jooble.org/desc/2005100523728692887?ckey=java&rgn=1&pos=15&elckey=4446294820973749439&pageType=21&p=1&sid=7473930527941739150&jobAge=541&relb=115&brelb=115&bscr=20855.45385608758&scr=20855.45385608758&searchTestGroup=1_2_1&iid=2818204841298168042', 'title': 'Experienced Java Developer', 'company': 'Transporeon', 'description': '...Experienced Java Developer \\r\\n AtаTransporeonа AаTrimble Companyа weаembrace transformation and change inаtotal sync with one another. Weаrethink, reinvent and rework ideas from one moment toаthe nextа asаmany times asаisаnecessary toаget the job...', 'city': 1, 'language': 2, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1250,
@@ -1892,7 +1748,7 @@
             "url": "https://www.work.ua/jobs/5523028/",
             "title": "Middle C++ Developer (Win API)",
             "company": "No name",
-            "description": "Full employment. Work experience from 2 years. IMPORTANT! Relevant as of February 22, 2024, 1 month internship. We are seeking a specialist to join our long-term project which has been in production for several years and manages a high volume of requests per",
+            "description": "Full employment. Work experience from 2 years. IMPORTANT! Relevant as of February 22, 2024, 1 month internship. We are seeking a specialist to join our long-term project which has been in production for several years and manages a high volume of requests perЕ",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -1905,7 +1761,7 @@
             "url": "https://www.work.ua/jobs/4939220/",
             "title": "Not info",
             "company": "No name",
-            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             SNPO \"IMPULS\" is the market leader of control and management systems (CMS) for the nuclear power industry and railways of Ukraine. Thanks to many years of unique experience and advanced technologies, ECU developments correspond to the best",
+            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             SNPO \"IMPULS\" is the market leader of control and management systems (CMS) for the nuclear power industry and railways of Ukraine. Thanks to many years of unique experience and advanced technologies, ECU developments correspond to the bestЕ",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -1955,9 +1811,9 @@
         "pk": 1257,
         "fields": {
             "url": "https://www.work.ua/jobs/5413803/",
-            "title": "++, C# developer",
+            "title": "╤++, C# developer",
             "company": "No name",
-            "description": "Full employment. Work experience from 1 year.\r\n                             The national IT product company Linkos Group is the owner of brands, a long-term leader in the development of business software and rating software products for accountants and entrepreneurs of Ukraine. Byfavorite brands",
+            "description": "Full employment. Work experience from 1 year.\r\n                             The national IT product company Linkos Group is the owner of brands, a long-term leader in the development of business software and rating software products for accountants and entrepreneurs of Ukraine. Byаfavorite brandsЕ",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -1970,7 +1826,7 @@
             "url": "https://www.work.ua/jobs/5513965/",
             "title": "Strong Junior C++ developer",
             "company": "No name",
-            "description": "Full employment. Work experience from 1 year.\r\n                             Vacancy: Strong Junior C++ Developer M-Fly is an ambitious startup in the field of developing innovative military technologies to transform unguided projectiles into guided ones using advanced technologies. We aim to",
+            "description": "Full employment. Work experience from 1 year.\r\n                             Vacancy: Strong Junior C++ Developer M-Fly is an ambitious startup in the field of developing innovative military technologies to transform unguided projectiles into guided ones using advanced technologies. We aim toЕ",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -1982,8 +1838,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/wargaming/vacancies/258493/",
             "title": "Game Logic Developer",
-            "company": "Wargaming",
-            "description": "\n\t\t\t\tWorld ofTanks Kyiv islooking for aGame Logic Developer tojoin the Team onafull-time basis. AsaDeveloper, you will befocusing onthe development ofnew features and gameplay modes for World ofTanks.\n\t\t\t",
+            "company": "аWargaming",
+            "description": "\n\t\t\t\tWorld ofаTanks Kyiv isаlooking for aаGame Logic Developer toаjoin the Team onаaаfull-time basis. AsаaаDeveloper, you will beаfocusing onаthe development ofаnew features and gameplay modes for World ofаTanks.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -1995,8 +1851,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/plvision/vacancies/219216/",
             "title": "Senior C/C++ Software Engineer",
-            "company": "PLVision",
-            "description": "\n\t\t\t\tWeare looking for anambitious Senior C/C++ Software Engineer tojoin PLVision, astable Ukrainian company with in-demand and future-proof specialization incomputer networking.\n\t\t\t",
+            "company": "аPLVision",
+            "description": "\n\t\t\t\tWeаare looking for anаambitious Senior C/C++ Software Engineer toаjoin PLVision, aаstable Ukrainian company with in-demand and future-proof specialization inаcomputer networking.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2008,8 +1864,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/plvision/vacancies/239620/",
             "title": "Junior C++ Verification Engineer",
-            "company": "PLVision",
-            "description": "\n\t\t\t\tWeinvite aC++Verification Engineer with upto2years ofcommercial experience tojoin along-term project for atechnology leader, our client for over 8years. This isanopportunity toget astable job inareliable company that continues tohire and extend inUkraine.\n\t\t\t",
+            "company": "аPLVision",
+            "description": "\n\t\t\t\tWeаinvite aаC++аVerification Engineer with upаtoа2аyears ofаcommercial experience toаjoin aаlong-term project for aаtechnology leader, our client for over 8аyears. This isаanаopportunity toаget aаstable job inаaаreliable company that continues toаhire and extend inаUkraine.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2021,8 +1877,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/globallogic/vacancies/258266/",
             "title": "C++ (Linux) engineer IRC208751",
-            "company": "GlobalLogic",
-            "description": "\n\t\t\t\tGlobalLogic isinviting anexperienced C++(Linux) Engineer tojoin our engineering team.\n\nHarmonic isaleading provider ofinnovative broadband solutions that deliver video, voice and data tocommunications providers around the world.\n\t\t\t",
+            "company": "аGlobalLogic",
+            "description": "\n\t\t\t\tGlobalLogic isаinviting anаexperienced C++а(Linux) Engineer toаjoin our engineering team.\n\nHarmonic isаaаleading provider ofаinnovative broadband solutions that deliver video, voice and data toаcommunications providers around the world.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2034,8 +1890,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/restream-inc/vacancies/217409/",
             "title": "Senior WebRTC Engineer",
-            "company": "Restream",
-            "description": "\n\t\t\t\tRestream islooking for aWebRTC Engineer tojoinus tosolve complex challenges and build world-class products. Inthis role, you will build new features, design and implement new services, and improve the reliability ofour systems aswerapidly scale our product and organization.\n\t\t\t",
+            "company": "аRestream",
+            "description": "\n\t\t\t\tRestream isаlooking for aаWebRTC Engineer toаjoinаus toаsolve complex challenges and build world-class products. Inаthis role, you will build new features, design and implement new services, and improve the reliability ofаour systems asаweаrapidly scale our product and organization.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2047,8 +1903,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/restream-inc/vacancies/217406/",
             "title": "Senior Video Streaming Engineer",
-            "company": "Restream",
-            "description": "\n\t\t\t\tRestream islooking for aVideo Streaming Engineer tojoinus tosolve complex challenges and build world-class products.\n\t\t\t",
+            "company": "аRestream",
+            "description": "\n\t\t\t\tRestream isаlooking for aаVideo Streaming Engineer toаjoinаus toаsolve complex challenges and build world-class products.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2060,8 +1916,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/delphi-llc/vacancies/238823/",
             "title": "Senior C++/Golang/Java Linux Networking Engineer",
-            "company": "Delphi Software",
-            "description": "\n\t\t\t\tPerimeter 81is expanding team for development cybersecurity and SaaS platform. All solutions allows companies manage networks and security from single cloud.\n\t\t\t",
+            "company": "аDelphi Software",
+            "description": "\n\t\t\t\tPerimeter 81аis expanding team for development cybersecurity and SaaS platform. All solutions allows companies manage networks and security from single cloud.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2073,8 +1929,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/4a-games-limited/vacancies/249388/",
             "title": "Render Programmer",
-            "company": "4A Games Limited",
-            "description": "\n\t\t\t\tRESPONSIBILITIES\n\n\n\nWork with others toexpand our next-generation graphics pipeline including advanced lighting and rendering techniques, and special effects.\n\nExperience inidentifying bottlenecks and optimizing existing/ future rendering code.\n\t\t\t",
+            "company": "а4A Games Limited",
+            "description": "\n\t\t\t\tRESPONSIBILITIES\n\n\n\nWork with others toаexpand our next-generation graphics pipeline including advanced lighting and rendering techniques, and special effects.\n\nExperience inаidentifying bottlenecks and optimizing existingа/ future rendering code.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2086,8 +1942,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/liraland-group/vacancies/258056/",
             "title": "Middle / Senior C++ Developer (Win32)",
-            "company": "LIRALAND Group",
-            "description": "\n\t\t\t\tDescription:\n\nWeare looking for software developer for Microsoft Windows for C++Win32/MFC inComputer Aided Engineering (CAE).\n\t\t\t",
+            "company": "аLIRALAND Group",
+            "description": "\n\t\t\t\tDescription:\n\nWeаare looking for software developer for Microsoft Windows for C++аWin32/MFC inаComputer Aided Engineering (CAE).\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2099,7 +1955,7 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/octava-cyber-defence/vacancies/257976/",
             "title": "Middle C++ developer",
-            "company": "Octava Defence",
+            "company": "аOctava Defence",
             "description": "Not info",
             "city": 1,
             "language": 3,
@@ -2112,8 +1968,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/p-product/vacancies/169602/",
             "title": "DSP Engineer",
-            "company": "P-Product",
-            "description": "\n\t\t\t\tKey Responsibilities:\n 1+years experience with DSP\n DSP algorithm optimization for alow-level programming language (, intrinsics, assembler)\n Porting float-point tofixed-point implementation\n Testing and verification ofDSP solution inasimulator oremulator (onthe...\n\t\t\t",
+            "company": "аP-Product",
+            "description": "\n\t\t\t\tKey Responsibilities:\nХ 1+years experience with DSP\nХ DSP algorithm optimization for aаlow-level programming language (╤, intrinsics, assembler)\nХ Porting float-point toаfixed-point implementation\nХ Testing and verification ofаDSP solution inаaаsimulator orаemulator (onаthe...\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2125,8 +1981,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/ubisoft/vacancies/238863/",
             "title": "Senior 3D Graphics Engineer / Rendering Programmer/ Graphics Programmer",
-            "company": "Ubisoft",
-            "description": "\n\t\t\t\tCompany Description\n\nUbisofts 20,000professionals, working across more than 40locations around the world, are bound byacommon mission toenrich players lives with original and memorable gaming experiences.\n\t\t\t",
+            "company": "аUbisoft",
+            "description": "\n\t\t\t\tCompany Description\n\nUbisoftТs 20,000аprofessionals, working across more than 40аlocations around the world, are bound byаaаcommon mission toаenrich playersТ lives with original and memorable gaming experiences.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2139,7 +1995,7 @@
             "url": "https://jobs.dou.ua/companies/moduleworks-gmbh/vacancies/218253/",
             "title": "Junior C++ Software Developer",
             "company": "ModuleWorks",
-            "description": "Required skills\r\n Knowledge ofC++  Education incomputer science, physics, orother engineering  Hands-on experience with Standard Library data structures and algorithms  Intermediate English\r\nAsaplus\r\n Mathematical background  Knowledge ofcomputational geometry,...",
+            "description": "Required skills\r\nХ Knowledge ofаC++ Х Education inаcomputer science, physics, orаother engineering Х Hands-on experience with Standard Library data structures and algorithms Х Intermediate English\r\nAsаaаplus\r\nХ Mathematical background Х Knowledge ofаcomputational geometry,...",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2152,7 +2008,7 @@
             "url": "https://jobs.dou.ua/companies/visonic-a-tyco-international-company/vacancies/170857/",
             "title": "C++ Developer",
             "company": "Visonic",
-            "description": "Senior/Middle C++Developer Weare looking for aC++Developer toparticipate indevelopment ofthe companys receiver and management platform PowerManage. The server isahigh-tech solution based onGNU/Linux designed tomanage security panels.",
+            "description": "Senior/Middle C++аDeveloper Weаare looking for aаC++аDeveloper toаparticipate inаdevelopment ofаthe companyТs receiver and management platform PowerManageЩ. The server isаaаhigh-tech solution based onаGNU/Linux designed toаmanage security panels.",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2164,8 +2020,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/gunzilla/vacancies/232057/",
             "title": "Senior Core/Engine Programmer",
-            "company": "Gunzilla Games",
-            "description": "\n\t\t\t\tABOUT THE JOB\n\nThe Senior Core/Engine Programmer will beresponsible for designing and developing core engine systems for OTG (Off The Grid), anall-new AAA Battle Royale2.0 third-person shooter, due for release onPlayStation5, Xbox Series X|S and PC.\n\t\t\t",
+            "company": "аGunzilla Games",
+            "description": "\n\t\t\t\tABOUT THE JOB\n\nThe Senior Core/Engine Programmer will beаresponsible for designing and developing core engine systems for OTG (Off The Grid), anаall-new AAA Battle Royaleа2.0 third-person shooter, due for release onаPlayStationо5, Xboxо Series X|S and PC.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2177,8 +2033,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/wargaming/vacancies/150561/",
             "title": "C++ Programmer",
-            "company": "Wargaming",
-            "description": "\n\t\t\t\tWargaming islooking for aC++Programmer tojoin the Platform team. The teams primary goal ismaintaining quick and easy access toall Wargaming games, simplifying the release process for features and games, lowering their development expenses.\n\t\t\t",
+            "company": "аWargaming",
+            "description": "\n\t\t\t\tWargaming isаlooking for aаC++аProgrammer toаjoin the Platform team. The teamТs primary goal isаmaintaining quick and easy access toаall Wargaming games, simplifying the release process for features and games, lowering their development expenses.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2189,7 +2045,7 @@
         "pk": 1275,
         "fields": {
             "url": "https://jobs.dou.ua/companies/ajax-systems/vacancies/216525/",
-            "title": "Senior ++ Developer",
+            "title": "Senior ╤++ Developer",
             "company": "Ajax Systems",
             "description": "Ajax is a full-cycle company from idea generation and R&D to mass production. We do everything: we manufacture physical devices, we write firmware for them, we develop backend and mobile applications.",
             "city": 1,
@@ -2203,8 +2059,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/gunzilla/vacancies/249291/",
             "title": "Metagame Programmer",
-            "company": "Gunzilla Games",
-            "description": "\n\t\t\t\tABOUT THE JOB\n\nGunzilla Games islooking for aMetagame Programmer, who will design and develop metagame features for our game OTG (Off The Grid), anall-new AAA Battle Royale2.0 third-person shooter, due for release onPlayStation5, Xbox Series X|S and PC\n\nRESPONSIBILITIES...\n\t\t\t",
+            "company": "аGunzilla Games",
+            "description": "\n\t\t\t\tABOUT THE JOB\n\nGunzilla Games isаlooking for aаMetagame Programmer, who will design and develop metagame features for our game OTG (Off The Grid), anаall-new AAA Battle Royaleа2.0 third-person shooter, due for release onаPlayStationо5, Xboxо Series X|S and PC\n\nRESPONSIBILITIES...\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2216,8 +2072,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/gunzilla/vacancies/251997/",
             "title": "Gameplay Programmer",
-            "company": "Gunzilla Games",
-            "description": "\n\t\t\t\tABOUT THE JOB\n\nGunzilla Games islooking for aGameplay Programmer. Inthis position, you will collaborate with Games Designers todevelop and support various gameplay features (e.g. movement, shooting), and gameplay entities (e.g.\n\t\t\t",
+            "company": "аGunzilla Games",
+            "description": "\n\t\t\t\tABOUT THE JOB\n\nGunzilla Games isаlooking for aаGameplay Programmer. Inаthis position, you will collaborate with Games Designers toаdevelop and support various gameplay features (e.g. movement, shooting), and gameplay entities (e.g.\n\t\t\t",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2334,7 +2190,7 @@
             "url": "https://ua.jooble.org/desc/4711899352922401875?ckey=c%2b%2b&rgn=1&pos=1&pageType=21&p=1&jobAge=517&brelb=115&recId=2919921465840159007&iRecId=-6195077248127182350",
             "title": "C++ Developer",
             "company": "Visonic, Tyco International Company",
-            "description": "...C++ Developer  \r\n Senior/Middle C++Developer \r\n Weare looking for aC++Developer toparticipate indevelopment ofthe companys receiver and management platform PowerManage. The server isahigh-tech solution based onGNU/Linux designed tomanage...",
+            "description": "...C++ Developer  \r\n Senior/Middle C++аDeveloper \r\n Weаare looking for aаC++аDeveloper toаparticipate inаdevelopment ofаthe companyТs receiver and management platform PowerManageЩ. The server isаaаhigh-tech solution based onаGNU/Linux designed toаmanage...",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2360,7 +2216,7 @@
             "url": "https://ua.jooble.org/desc/-2189953636358656990?ckey=c%2b%2b&rgn=1&pos=3&pageType=21&p=1&jobAge=349&brelb=115&recId=2919921465840159007&iRecId=411768536351644094",
             "title": "Middle / Senior C++ Developer (Win32)",
             "company": "LIRALAND Group",
-            "description": "...Middle / Senior C++ Developer (Win32)\r\n Description: \r\n Weare looking for software developer for Microsoft Windows for C++Win32/MFC inComputer Aided Engineering (CAE). \r\n Requirements: \r\n Higher technical education inthe field oftheoretical and applied mechanics...",
+            "description": "...Middle / Senior C++ Developer (Win32)\r\n Description: \r\n Weаare looking for software developer for Microsoft Windows for C++аWin32/MFC inаComputer Aided Engineering (CAE). \r\n Requirements: \r\n Higher technical education inаthe field ofаtheoretical and applied mechanics...",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2646,7 +2502,7 @@
             "url": "https://ua.jooble.org/desc/4711899352922401875?ckey=c%2b%2b&rgn=1&pos=1&pageType=21&p=1&jobAge=517&brelb=115&recId=-3075096352831897084&iRecId=-9174800201663260419",
             "title": "C++ Developer",
             "company": "Visonic, Tyco International Company",
-            "description": "...C++ Developer \r\n Senior/Middle C++Developer \r\n Weare looking for aC++Developer toparticipate indevelopment ofthe companys receiver and management platform PowerManage. The server isahigh-tech solution based onGNU/Linux designed tomanage...",
+            "description": "...C++ Developer \r\n Senior/Middle C++аDeveloper \r\n Weаare looking for aаC++аDeveloper toаparticipate inаdevelopment ofаthe companyТs receiver and management platform PowerManageЩ. The server isаaаhigh-tech solution based onаGNU/Linux designed toаmanage...",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2672,7 +2528,7 @@
             "url": "https://ua.jooble.org/desc/-2189953636358656990?ckey=c%2b%2b&rgn=1&pos=3&pageType=21&p=1&jobAge=349&brelb=115&recId=-3075096352831897084&iRecId=-6122812472307807953",
             "title": "Middle / Senior C++ Developer (Win32)",
             "company": "LIRALAND Group",
-            "description": "...Middle / Senior C++ Developer (Win32)\r\n Description: \r\n Weare looking for software developer for Microsoft Windows for C++Win32/MFC inComputer Aided Engineering (CAE). \r\n Requirements: \r\n Higher technical education inthe field oftheoretical and applied mechanics...",
+            "description": "...Middle / Senior C++ Developer (Win32)\r\n Description: \r\n Weаare looking for software developer for Microsoft Windows for C++аWin32/MFC inаComputer Aided Engineering (CAE). \r\n Requirements: \r\n Higher technical education inаthe field ofаtheoretical and applied mechanics...",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2763,7 +2619,7 @@
             "url": "https://ua.jooble.org/desc/-237571892781921856?ckey=c%2b%2b&rgn=1&pos=14&elckey=3909530261538602089&pageType=21&p=1&sid=-8252867991893199426&jobAge=1765&relb=100&brelb=100&bscr=23212.610015442977&scr=23212.610015442977&searchTestGroup=1_2_1&iid=6905122492828709643",
             "title": "C/C++ Developer",
             "company": "Umma Life",
-            "description": "...Requirements: \r\n Proficiency in Russian is a must. \r\n Middle or Senior level experience in software development (3+ years). \r\n Proficiency in C/C++. \r\n Strong knowledge in the field of cryptography, decentralized networks, and open source. \r\n Familiarity with Linux systems is a...",
+            "description": "а...Requirements: \r\n Proficiency in Russian is a must. \r\n Middle or Senior level experience in software development (3+ years). \r\n Proficiency in C/C++. \r\n Strong knowledge in the field of cryptography, decentralized networks, and open source. \r\n Familiarity with Linux systems is a...а",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2776,7 +2632,7 @@
             "url": "https://ua.jooble.org/desc/-6641491972404118386?ckey=c%2b%2b&rgn=1&pos=15&elckey=3909530261538602089&pageType=21&p=1&sid=-8252867991893199426&jobAge=349&relb=115&brelb=115&bscr=22795.151373932542&scr=22795.151373932542&searchTestGroup=1_2_1&iid=-4095720255057112091",
             "title": "Machine Learning Engineer",
             "company": "Provectus",
-            "description": " Machine Learning Engineer Joinus atProvectus  tobeapart ofateam that isdedicated tobuilding cutting-edge technology solutions that have apositive impact onsociety. Our company specializes in...",
+            "description": " Machine Learning Engineer Joinаus atаProvectus  toаbeаaаpart ofаaаteam that isаdedicated toаbuilding cutting-edge technology solutions that have aаpositive impact onаsociety. Our company specializes inа...",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2789,7 +2645,7 @@
             "url": "https://ua.jooble.org/desc/-5724832503760192163?ckey=c%2b%2b&rgn=1&pos=17&elckey=3909530261538602089&pageType=21&p=1&sid=-8252867991893199426&jobAge=1559&relb=100&brelb=100&bscr=22061.27552791117&scr=22061.27552791117&searchTestGroup=1_2_1&iid=-7499049934200184004",
             "title": "C++ Programmer",
             "company": "Wargaming Group Limited",
-            "description": "...Job Overview \r\n Wargaming islooking for a C++Programmer tojoin the Platform team. \r\n The teams primary goal is maintaining quick and easy access to all Wargaming games, simplifying the release process for features and games, lowering their development expenses. Kyiv...",
+            "description": "а...Job Overview \r\n Wargaming isаlooking for aа C++аProgrammer toаjoin the Platform team. \r\n The teamТs primary goal is maintaining quick and easy access to all Wargaming games, simplifying the release process for features and games, lowering their development expenses. Kyiv...а",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2841,7 +2697,7 @@
             "url": "https://ua.jooble.org/desc/-3579199866978878962?ckey=python&rgn=31570&pos=4&elckey=4095252324782331673&pageType=21&p=1&sid=-8653284979347367371&jobAge=181&relb=15&brelb=15&bscr=17550.371671374814&scr=17550.371671374814&searchTestGroup=1_2_1&iid=7124970635876403996",
             "title": "Software Engineer Intern (Frontend/Backend/DevOps) ",
             "company": "Air Space Intelligence",
-            "description": "...understanding of the unique challenges faced by this sector. Youll have the opportunity to work with the latest technologies, including Python, Django, Kubernetes, Helm, Terraform, Google Cloud Platform, Big Query, and Dataflow, gaining hands-on experience in the most...",
+            "description": "а...understanding of the unique challenges faced by this sector. YouТll have the opportunity to work with the latest technologies, including Python, Django, Kubernetes, Helm, Terraform, Google Cloud Platform, Big Query, and Dataflow, gaining hands-on experience in the most...а",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -2880,32 +2736,20 @@
             "url": "https://ua.jooble.org/desc/1931163561479264654?ckey=python&rgn=31570&pos=7&elckey=4095252324782331673&pageType=21&p=1&sid=-8653284979347367371&jobAge=157&relb=15&brelb=15&bscr=17007.553453974127&scr=17007.553453974127&searchTestGroup=1_2_1&iid=7845864158942138780",
             "title": "Java Developer",
             "company": "SNI",
-            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location: Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
+            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location:а Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
         }
     },
-    {
-        "model": "scraping.vacancy",
-        "pk": 1329,
-        "fields": {
-            "url": "https://ua.jooble.org/desc/6385707412970262103?ckey=python&rgn=31570&pos=1&pageType=21&p=1&jobAge=709&brelb=115&recId=-5567767337580898572&iRecId=7070602032124346099",
-            "title": "Junior Data Analyst (MSSQL, MySQL)",
-            "company": "Dev.Pro",
-            "description": "Junior Data Analyst (MSSQL, MySQL)\r\n&##128994; Join Dev.Pro aUS-based outsourcing software development company that has been delivering exceptional software experience toclients since 2011.We invite...",
-            "city": 2,
-            "language": 1,
-            "timestamp": "2024-02-22"
-        }
-    },
+    "{'model': 'scraping.vacancy', 'pk': 1329, 'fields': {'url': 'https://ua.jooble.org/desc/6385707412970262103?ckey=python&rgn=31570&pos=1&pageType=21&p=1&jobAge=709&brelb=115&recId=-5567767337580898572&iRecId=7070602032124346099', 'title': 'Junior Data Analyst (MSSQL, MySQL)', 'company': 'Dev.Pro', 'description': 'Junior Data Analyst (MSSQL, MySQL)\\r\\n&##128994; Join Dev.Proа aаUS-based outsourcing software development company that has been delivering exceptional software experience toаclients since 2011.We invite...', 'city': 2, 'language': 1, 'timestamp': '2024-02-22'}}",
     {
         "model": "scraping.vacancy",
         "pk": 1330,
         "fields": {
             "url": "https://ua.jooble.org/desc/8989730227417168225?ckey=python&rgn=31570&pos=2&pageType=21&p=1&jobAge=8149&brelb=100&recId=-5567767337580898572&iRecId=-7845608748038763719",
             "title": "DevOps Engineer",
-            "company": "",
+            "company": "Not info",
             "description": "REQUIREMENTS:\r\n\r\n Experience in DevOps from 4 years;\r\n Expertise with Azure;\r\n Practical skills with Kubernetes, Docker, Jenkins;\r\n English: Upper-Intermediate level or higher.\r\n \r\nCOMPANY OFFERS:\r\n\r\n Employment as a private entrepreneur, its support is provided by company...",
             "city": 2,
             "language": 1,
@@ -2932,7 +2776,7 @@
             "url": "https://ua.jooble.org/desc/6117896420506166591?ckey=python&rgn=31570&pos=8&elckey=4095252324782331673&pageType=21&p=1&sid=-8653284979347367371&jobAge=181&relb=15&brelb=15&bscr=16803.829689115846&scr=16803.829689115846&searchTestGroup=1_2_1&iid=7320209585575877695",
             "title": "Release Engineer I (DevOps) ",
             "company": "Jamf",
-            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
+            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.а\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -2945,7 +2789,7 @@
             "url": "https://ua.jooble.org/desc/1223644999957215417?ckey=python&rgn=31570&pos=9&elckey=4095252324782331673&pageType=21&p=1&sid=-8653284979347367371&jobAge=61&relb=15&brelb=15&bscr=16771.719851103655&scr=16771.719851103655&searchTestGroup=1_2_1&iid=13085055403158361",
             "title": "Senior Software Engineer ",
             "company": "Appfire",
-            "description": "...UX Designers, and with other specialists like Support Engineers., Design, build, and maintain efficient and scalableJava / Scala, Python, and TypeScript-basedapplications;, Follow and establish the best engineering practices: automated testing, code reviews, pair programming...",
+            "description": "а...UX Designers, and with other specialists like Support Engineers., Design, build, and maintain efficient and scalableаJava / Scala, Python, and TypeScript-basedаapplications;, Follow and establish the best engineering practices: automated testing, code reviews, pair programming...а",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -2997,7 +2841,7 @@
             "url": "https://jobs.dou.ua/companies/quod-financial-ukraine/vacancies/215783/",
             "title": "Middle QA Automation (Python)",
             "company": "Quod Financial",
-            "description": "Must have:\r\n2+years ofautomation quality control engineer experience\r\nBasic knowledge ofOOP\r\nDeep knowledge oftesting methodology\r\nKnowledge ofPython and Java isabig plus \r\nExperience with Linux, Git\r\nSpoken English\r\nYour location only Ukraine orPoland\r\n\r\n\r\nNice tohave:...",
+            "description": "Must have:\r\n2+аyears ofаautomation quality control engineer experience\r\nBasic knowledge ofаOOP\r\nDeep knowledge ofаtesting methodology\r\nKnowledge ofаPython and Java isаaаbig plus \r\nExperience with Linux, Git\r\nSpoken English\r\nYour location only Ukraine orаPoland\r\n\r\n\r\nNice toаhave:...",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -3049,7 +2893,7 @@
             "url": "https://ua.jooble.org/desc/-3579199866978878962?ckey=python&rgn=31570&pos=4&elckey=1841255586389422715&pageType=21&p=1&sid=-3372012491923025510&jobAge=181&relb=15&brelb=15&bscr=17550.371671374814&scr=17550.371671374814&searchTestGroup=1_2_1&iid=4920344813377692441",
             "title": "Software Engineer Intern (Frontend/Backend/DevOps) ",
             "company": "Air Space Intelligence",
-            "description": "...understanding of the unique challenges faced by this sector. Youll have the opportunity to work with the latest technologies, including Python, Django, Kubernetes, Helm, Terraform, Google Cloud Platform, Big Query, and Dataflow, gaining hands-on experience in the most...",
+            "description": "а...understanding of the unique challenges faced by this sector. YouТll have the opportunity to work with the latest technologies, including Python, Django, Kubernetes, Helm, Terraform, Google Cloud Platform, Big Query, and Dataflow, gaining hands-on experience in the most...а",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -3088,7 +2932,7 @@
             "url": "https://ua.jooble.org/desc/1931163561479264654?ckey=python&rgn=31570&pos=7&elckey=1841255586389422715&pageType=21&p=1&sid=-3372012491923025510&jobAge=157&relb=15&brelb=15&bscr=17007.553453974127&scr=17007.553453974127&searchTestGroup=1_2_1&iid=8177803450197813657",
             "title": "Java Developer",
             "company": "SNI",
-            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location: Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
+            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location:а Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -3101,7 +2945,7 @@
             "url": "https://ua.jooble.org/desc/6385707412970262103?ckey=python&rgn=31570&pos=1&pageType=21&p=1&jobAge=709&brelb=115&recId=5887999721226287654&iRecId=-1613115978764239804",
             "title": "Junior Data Analyst (MSSQL, MySQL)",
             "company": "Dev.Pro",
-            "description": "Junior Data Analyst (MSSQL, MySQL)\r\n&##128994; Join Dev aUS-based outsourcing software development company that has been delivering exceptional software experience toclients since 2011.We invite...",
+            "description": "Junior Data Analyst (MSSQL, MySQL)\r\n&##128994; Join Dev aаUS-based outsourcing software development company that has been delivering exceptional software experience toаclients since 2011.We invite...",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -3113,7 +2957,7 @@
         "fields": {
             "url": "https://ua.jooble.org/desc/8989730227417168225?ckey=python&rgn=31570&pos=2&pageType=21&p=1&jobAge=8149&brelb=100&recId=5887999721226287654&iRecId=5522862618881879224",
             "title": "DevOps Engineer",
-            "company": "",
+            "company": "Not info",
             "description": "REQUIREMENTS:\r\n\r\n Experience in DevOps from 4 years;\r\n Expertise with Azure;\r\n Practical skills with Kubernetes, Docker, Jenkins;\r\n English: Upper-Intermediate level or higher.\r\n \r\nCOMPANY OFFERS:\r\n\r\n Employment as a private entrepreneur, its support is provided by company...",
             "city": 2,
             "language": 1,
@@ -3140,7 +2984,7 @@
             "url": "https://ua.jooble.org/desc/6117896420506166591?ckey=python&rgn=31570&pos=8&elckey=1841255586389422715&pageType=21&p=1&sid=-3372012491923025510&jobAge=181&relb=15&brelb=15&bscr=16803.829689115846&scr=16803.829689115846&searchTestGroup=1_2_1&iid=7358825121736844278",
             "title": "Release Engineer I (DevOps) ",
             "company": "Jamf",
-            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
+            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.а\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -3153,7 +2997,7 @@
             "url": "https://ua.jooble.org/desc/1223644999957215417?ckey=python&rgn=31570&pos=9&elckey=1841255586389422715&pageType=21&p=1&sid=-3372012491923025510&jobAge=61&relb=15&brelb=15&bscr=16771.719851103655&scr=16771.719851103655&searchTestGroup=1_2_1&iid=-2940051332494349860",
             "title": "Senior Software Engineer ",
             "company": "Appfire",
-            "description": "...UX Designers, and with other specialists like Support Engineers., Design, build, and maintain efficient and scalableJava / Scala, Python, and TypeScript-basedapplications;, Follow and establish the best engineering practices: automated testing, code reviews, pair programming...",
+            "description": "а...UX Designers, and with other specialists like Support Engineers., Design, build, and maintain efficient and scalableаJava / Scala, Python, and TypeScript-basedаapplications;, Follow and establish the best engineering practices: automated testing, code reviews, pair programming...а",
             "city": 2,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -3218,7 +3062,7 @@
             "url": "https://ua.jooble.org/desc/1931163561479264654?ckey=java&rgn=31570&pos=2&elckey=1159518656408446933&pageType=21&p=1&sid=2859125868303431552&jobAge=157&relb=15&brelb=15&bscr=18389.285862152432&scr=18389.285862152432&searchTestGroup=1_2_1&iid=-6405705537714886309",
             "title": "Java Developer",
             "company": "SNI",
-            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location: Wroclaw, Poznan, Gdansk \r\n Client has a very rich benefit package (Flexible working hours, home)",
+            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location:а Wroclaw, Poznan, Gdansk \r\n Client has a very rich benefit package (Flexible working hours, home)",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3231,7 +3075,7 @@
             "url": "https://ua.jooble.org/desc/1223644999957215417?ckey=java&rgn=31570&pos=3&elckey=1159518656408446933&pageType=21&p=1&sid=2859125868303431552&jobAge=61&relb=15&brelb=15&bscr=18167.864032967875&scr=18167.864032967875&searchTestGroup=1_2_1&iid=7646686143246519626",
             "title": "Senior Software Engineer ",
             "company": "Appfire",
-            "description": "...complex  software development  projects  or  products. \r\n Hands-on experience with  front-end  and  back-end  web technologies (consider  Java, Scala, Node.js, React ). You do not have to be a master in each, but you should be comfortable learning and working with any of...",
+            "description": "а...complex  software development  projects  or  products. \r\n Hands-on experience with  front-end  and  back-end  web technologies (consider  Java, Scala, Node.js, React ). You do not have to be a master in each, but you should be comfortable learning and working with any of...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3270,7 +3114,7 @@
             "url": "https://ua.jooble.org/desc/-8397493433763970522?ckey=java&rgn=31570&pos=6&elckey=1159518656408446933&pageType=21&p=1&sid=2859125868303431552&jobAge=541&relb=15&brelb=15&bscr=17758.355722653774&scr=17758.355722653774&searchTestGroup=1_2_1&iid=1810552970551355107",
             "title": "Remote Senior Frontend Developer ",
             "company": "SoftwareMill",
-            "description": "...decisions, Transparent payment/raises policy, Monthly integration meetings, Annual company weekend away, Annual weekend with families, From Java to Scala trainings, In-house English classes, No dress code, Office located anywhere you want :), You can own your air conditioning...",
+            "description": "а...decisions, Transparent payment/raises policy, Monthly integration meetings, Annual company weekend away, Annual weekend with families, From Java to Scala trainings, In-house English classes, No dress code, Office located anywhere you want :), You can own your air conditioning...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3283,7 +3127,7 @@
             "url": "https://ua.jooble.org/desc/-3579199866978878962?ckey=java&rgn=31570&pos=7&elckey=1159518656408446933&pageType=21&p=1&sid=2859125868303431552&jobAge=181&relb=15&brelb=15&bscr=17625.34762923405&scr=17625.34762923405&searchTestGroup=1_2_1&iid=483816065913938651",
             "title": "Software Engineer Intern (Frontend/Backend/DevOps) ",
             "company": "Air Space Intelligence",
-            "description": "...Query, and Dataflow, gaining hands-on experience in the most sought-after tech skills.: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum.",
+            "description": "а...Query, and Dataflow, gaining hands-on experience in the most sought-after tech skills.: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum.",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3296,7 +3140,7 @@
             "url": "https://ua.jooble.org/desc/-5723825942557647391?ckey=java&rgn=31570&pos=1&pageType=21&p=1&jobAge=589&brelb=115&recId=-1356603528571973191&iRecId=1448515179954355971",
             "title": "Full-stack Developer (Node.js+React.js)",
             "company": "CHI Software",
-            "description": "Full-stack Developer (Node.js+React.js)\r\n The CHI Software team isnot standing still. Welove our job and give itone hundred percent ofus! Every new project isachallenge that weface successfully...",
+            "description": "Full-stack Developer (Node.js+React.js)\r\n The CHI Software team isаnot standing still. Weаlove our job and give itаone hundred percent ofаus! Every new project isаaаchallenge that weаface successfully...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3309,7 +3153,7 @@
             "url": "https://ua.jooble.org/desc/-545939007372971184?ckey=java&rgn=31570&pos=2&pageType=21&p=1&jobAge=493&brelb=15&recId=-1356603528571973191&iRecId=-3075918286341461332",
             "title": "Java Backend Engineer ",
             "company": "Uncapped",
-            "description": "...microservices architecture, automated testing, and continuous improvement. If you're eager to work with the latest technologies like Java 21 and SpringBoot 3.2, Uncapped is the perfect place for you. \r\n Join us to make a meaningful impact on the world of technology and...",
+            "description": "а...microservices architecture, automated testing, and continuous improvement. If you're eager to work with the latest technologies like Java 21 and SpringBoot 3.2, Uncapped is the perfect place for you. \r\n Join us to make a meaningful impact on the world of technology and...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3322,7 +3166,7 @@
             "url": "https://ua.jooble.org/desc/3455224636329687616?ckey=java&rgn=31570&pos=3&pageType=21&p=1&jobAge=349&brelb=15&recId=-1356603528571973191&iRecId=8084141616194898394",
             "title": "Junior Java Developer ",
             "company": "Codibly",
-            "description": "...applications in commercial projects with a Computer Science Degree or at least 2 years of experience without a degree.\r\n Knowledge of Java 11+. \r\n Knowledge of Spring. \r\n Knowledge of design patterns and programming principles.\r\n Good knowledge of unit and integration...",
+            "description": "а...applications in commercial projects with a Computer Science Degree or at least 2 years of experience without a degree.а\r\n Knowledge of Java 11+. \r\n Knowledge of Spring. \r\n Knowledge of design patterns and programming principles.а\r\n Good knowledge of unit and integration...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3348,7 +3192,7 @@
             "url": "https://ua.jooble.org/desc/-6043590409938935067?ckey=java&rgn=31570&pos=9&elckey=1159518656408446933&pageType=21&p=1&sid=2859125868303431552&jobAge=205&relb=15&brelb=15&bscr=16794.60509023268&scr=16794.60509023268&searchTestGroup=1_2_1&iid=-3555372175431921962",
             "title": "QA Engineer",
             "company": "1dea",
-            "description": "...modern office in a well-connected location\r\n\r\n~+3 years of experience as an automation tester - any knowledge of Java/Python etc.\r\n~ creative, independent work - definitely welcome (!!)\r\n~ conducting tests on SaaS platforms and..",
+            "description": "...modern office in a well-connected location\r\n\r\n~+3 years of experience as an automation tester - any knowledge of Java/Python etc.\r\n~ creative, independent work - definitely welcome (!!)\r\n~ conducting tests on SaaS platforms and..■",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3361,7 +3205,7 @@
             "url": "https://ua.jooble.org/desc/-6912365123325606627?ckey=java&rgn=31570&pos=10&elckey=1159518656408446933&pageType=21&p=1&sid=2859125868303431552&jobAge=709&relb=15&brelb=15&bscr=16666.245125133737&scr=16666.245125133737&searchTestGroup=1_2_1&iid=849497764313141854",
             "title": "Web developer / Frontend Designer",
             "company": "Parleto",
-            "description": "\"Fajne rzeczy\"- w tych slowach mozna okreslic nasze podejscie oraz to, co robimy. Od prawie 20 lat tworzymy nowoczesne rozwiazania informatyczne, ktore usprawniaja prace tysiecy uzytkownikow kazdego dnia.\r\n Obecnie poszukujemy pelnego pasji Web Developera, ktory zostanie...",
+            "description": "\"Fajne rzeczy\"а- w tych slowach mozna okreslic nasze podejscie oraz to, co robimy. Od prawie 20 lat tworzymy nowoczesne rozwiazania informatyczne, ktore usprawniaja prace tysiecy uzytkownikow kazdego dnia.\r\n Obecnie poszukujemy pelnego pasji Web Developera, ktory zostanie...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3374,7 +3218,7 @@
             "url": "https://ua.jooble.org/desc/6117896420506166591?ckey=java&rgn=31570&pos=11&elckey=1159518656408446933&pageType=21&p=1&sid=2859125868303431552&jobAge=181&relb=15&brelb=15&bscr=16497.850165428077&scr=16497.850165428077&searchTestGroup=1_2_1&iid=-5333363260566259560",
             "title": "Release Engineer I (DevOps) ",
             "company": "Jamf",
-            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
+            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.а\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3413,7 +3257,7 @@
             "url": "https://ua.jooble.org/desc/1931163561479264654?ckey=java&rgn=31570&pos=2&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=157&relb=15&brelb=15&bscr=18389.285862152432&scr=18389.285862152432&searchTestGroup=1_2_1&iid=-4400017415975179937",
             "title": "Java Developer",
             "company": "SNI",
-            "description": "...For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location: Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
+            "description": "...For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location:а Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3426,7 +3270,7 @@
             "url": "https://ua.jooble.org/desc/1223644999957215417?ckey=java&rgn=31570&pos=3&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=61&relb=15&brelb=15&bscr=18167.864032967875&scr=18167.864032967875&searchTestGroup=1_2_1&iid=-8724745005924633066",
             "title": "Senior Software Engineer ",
             "company": "Appfire",
-            "description": "...complex  software development  projects  or  products. \r\n Hands-on experience with  front-end  and  back-end  web technologies (consider  Java, Scala, Node.js, React ). You do not have to be a master in each, but you should be comfortable learning and working with any of...",
+            "description": "а...complex  software development  projects  or  products. \r\n Hands-on experience with  front-end  and  back-end  web technologies (consider  Java, Scala, Node.js, React ). You do not have to be a master in each, but you should be comfortable learning and working with any of...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3465,7 +3309,7 @@
             "url": "https://ua.jooble.org/desc/-8397493433763970522?ckey=java&rgn=31570&pos=6&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=541&relb=15&brelb=15&bscr=17758.355722653774&scr=17758.355722653774&searchTestGroup=1_2_1&iid=1614502452660692503",
             "title": "Remote Senior Frontend Developer ",
             "company": "SoftwareMill",
-            "description": "...decisions, Transparent payment/raises policy, Monthly integration meetings, Annual company weekend away, Annual weekend with families, From Java to Scala trainings, In-house English classes, No dress code, Office located anywhere you want :), You can own your air conditioning...",
+            "description": "а...decisions, Transparent payment/raises policy, Monthly integration meetings, Annual company weekend away, Annual weekend with families, From Java to Scala trainings, In-house English classes, No dress code, Office located anywhere you want :), You can own your air conditioning...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3478,7 +3322,7 @@
             "url": "https://ua.jooble.org/desc/-3579199866978878962?ckey=java&rgn=31570&pos=7&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=181&relb=15&brelb=15&bscr=17625.34762923405&scr=17625.34762923405&searchTestGroup=1_2_1&iid=8602742616259319519",
             "title": "Software Engineer Intern (Frontend/Backend/DevOps) ",
             "company": "Air Space Intelligence",
-            "description": "...Query, and Dataflow, gaining hands-on experience in the most sought-after tech skills: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum.",
+            "description": "а...Query, and Dataflow, gaining hands-on experience in the most sought-after tech skills: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum.",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3491,7 +3335,7 @@
             "url": "https://ua.jooble.org/desc/-5723825942557647391?ckey=java&rgn=31570&pos=1&pageType=21&p=1&jobAge=589&brelb=115&recId=-935307048561007957&iRecId=3052402855839176780",
             "title": "Full-stack Developer (Node.js+React.js)",
             "company": "CHI Software",
-            "description": "Full-stack Developer (Node.js+React.js)\r\n The CHI Software team isnot standing still. Welove our job and give itone hundred percent ofus! Every new project isachallenge that weface successfully...",
+            "description": "Full-stack Developer (Node.js+React.js)\r\n The CHI Software team isаnot standing still. Weаlove our job and give itаone hundred percent ofаus! Every new project isаaаchallenge that weаface successfully...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3504,7 +3348,7 @@
             "url": "https://ua.jooble.org/desc/-545939007372971184?ckey=java&rgn=31570&pos=2&pageType=21&p=1&jobAge=493&brelb=15&recId=-935307048561007957&iRecId=4301952454859588312",
             "title": "Java Backend Engineer ",
             "company": "Uncapped",
-            "description": "...microservices architecture, automated testing, and continuous improvement. If you're eager to work with the latest technologies like Java 21 and SpringBoot 3.2, Uncapped is the perfect place for you. \r\n Join us to make a meaningful impact on the world of technology and...",
+            "description": "а...microservices architecture, automated testing, and continuous improvement. If you're eager to work with the latest technologies like Java 21 and SpringBoot 3.2, Uncapped is the perfect place for you. \r\n Join us to make a meaningful impact on the world of technology and...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3517,7 +3361,7 @@
             "url": "https://ua.jooble.org/desc/3455224636329687616?ckey=java&rgn=31570&pos=3&pageType=21&p=1&jobAge=349&brelb=15&recId=-935307048561007957&iRecId=1897709437035013179",
             "title": "Junior Java Developer ",
             "company": "Codibly",
-            "description": "...applications in commercial projects with a Computer Science Degree or at least 2 years of experience without a degree.\r\n Knowledge of Java 11+. \r\n Knowledge of Spring. \r\n Knowledge of design patterns and programming principles.\r\n Good knowledge of unit and integration...",
+            "description": "а...applications in commercial projects with a Computer Science Degree or at least 2 years of experience without a degree.а\r\n Knowledge of Java 11+. \r\n Knowledge of Spring. \r\n Knowledge of design patterns and programming principles.а\r\n Good knowledge of unit and integration...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3556,7 +3400,7 @@
             "url": "https://ua.jooble.org/desc/-6912365123325606627?ckey=java&rgn=31570&pos=10&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=709&relb=15&brelb=15&bscr=16666.245125133737&scr=16666.245125133737&searchTestGroup=1_2_1&iid=-208293481513709374",
             "title": "Web developer / Frontend Designer",
             "company": "Parleto",
-            "description": "\"Fajne rzeczy\"- w tych slowach mozna okreslic nasze podejscie oraz to, co robimy. Od prawie 20 lat tworzymy nowoczesne rozwiazania informatyczne, ktore usprawniaja prace tysiecy uzytkownikow kazdego dnia.\r\n Obecnie poszukujemy pelnego pasji Web Developera, ktory zostanie...",
+            "description": "\"Fajne rzeczy\"а- w tych slowach mozna okreslic nasze podejscie oraz to, co robimy. Od prawie 20 lat tworzymy nowoczesne rozwiazania informatyczne, ktore usprawniaja prace tysiecy uzytkownikow kazdego dnia.\r\n Obecnie poszukujemy pelnego pasji Web Developera, ktory zostanie...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3569,7 +3413,7 @@
             "url": "https://ua.jooble.org/desc/6117896420506166591?ckey=java&rgn=31570&pos=11&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=181&relb=15&brelb=15&bscr=16497.850165428077&scr=16497.850165428077&searchTestGroup=1_2_1&iid=7643403130399651580",
             "title": "Release Engineer I (DevOps) ",
             "company": "Jamf",
-            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
+            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.а\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3595,7 +3439,7 @@
             "url": "https://ua.jooble.org/desc/-8752037572291736659?ckey=java&rgn=31570&pos=13&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=157&relb=15&brelb=15&bscr=16151.07024609149&scr=16151.07024609149&searchTestGroup=1_2_1&iid=-2665721035872829774",
             "title": "Fullstack Developer (Angular +.NET)",
             "company": "emagine Sp. Z o.o.",
-            "description": "INFORMACJE O PROJEKCIE: \r\n Branza  : IT \r\n Lokalizacja  : 100% zdalnie \r\n Stawka: 140 zl/h netto + VAT, B2B \r\n Projekt dlugoterminowy \r\n Klient docelowy: firma, ktora jest dostawca uslug rejestracyjnych dzialajaca w Dublinie w Irlandii. Projektuja, buduja i obsluguja...",
+            "description": "INFORMACJE O PROJEKCIE: \r\n Branza  : IT \r\n Lokalizacja  : 100% zdalnie \r\n Stawka: 140 zl/h netto + VAT,а B2B \r\n Projekt dlugoterminowy \r\n Klient docelowy: аfirma, ktora jest dostawca uslug rejestracyjnych dzialajaca w Dublinie w Irlandii. Projektuja, buduja i obsluguja...",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3621,7 +3465,7 @@
             "url": "https://ua.jooble.org/desc/4274308336263671181?ckey=java&rgn=31570&pos=15&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=349&relb=100&brelb=100&bscr=15928.655299703336&scr=15928.655299703336&searchTestGroup=1_2_1&iid=3129281731661121298",
             "title": "QA Automation Engineer @ State Street",
             "company": "State Street",
-            "description": "...will have a solid understanding of different test automation approaches (keyword-driven, Data-driven, TDD, BDD) and technology stacks (Java, Python, JavaScript, Groovy etc.). They will work to integrate test automation into CI/CD process and instrument full SDLC...",
+            "description": "а...will have a solid understanding of different test automation approaches (keyword-driven, Data-driven, TDD, BDD) and technology stacks (Java, Python, JavaScript, Groovy etc.). They will work to integrate test automation into CI/CD process and instrument full SDLC...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3647,7 +3491,7 @@
             "url": "https://ua.jooble.org/desc/-6103243582036555162?ckey=java&rgn=31570&pos=17&elckey=8463300666093011091&pageType=21&p=1&sid=-1617057656184062228&jobAge=181&relb=15&brelb=15&bscr=15425.008186764408&scr=15425.008186764408&searchTestGroup=1_2_1&iid=4637582175052294871",
             "title": "Senior IT Automation Tester ",
             "company": "emagine Sp. Z o.o.",
-            "description": ".... \r\n Good knowledge of functional, automated, exploratory and regression testing. \r\n Good proficiency in automation testing using Java. \r\n Good SQL proficiency. \r\n Good in using CI/CD tools, preferably Bamboo. \r\n Good English both in writing and speaking. \r\n Fluent...",
+            "description": "а.... \r\nХ Good knowledge of functional, automated, exploratory and regression testing. \r\nХ Good proficiency in automation testing using Java. \r\nХ Good SQL proficiency. \r\nХ Good in using CI/CD tools, preferably Bamboo. \r\nХ Good English both in writing and speaking. \r\nХ Fluent...а",
             "city": 2,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -3699,7 +3543,7 @@
             "url": "https://ua.jooble.org/desc/1223644999957215417?ckey=c%2b%2b&rgn=31570&pos=3&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=61&relb=15&brelb=15&bscr=17710.773146935662&scr=17710.773146935662&searchTestGroup=1_2_1&iid=-7134317275063435401",
             "title": "Senior Software Engineer ",
             "company": "Appfire",
-            "description": " Job Purpose and Overview:\n Todays modern technology world is awesome but complex. The amount of tools can be overwhelming. At Appfire we build solutions to make life easier, where our developers are the innovators delivering solutions for complex problems. Want to see...",
+            "description": " Job Purpose and Overview:\n TodayТs modern technology world is awesome but complex. The amount of tools can be overwhelming. At Appfire we build solutions to make life easier, where our developers are the innovators delivering solutions for complex problems. Want to see...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3712,7 +3556,7 @@
             "url": "https://ua.jooble.org/desc/-3579199866978878962?ckey=c%2b%2b&rgn=31570&pos=4&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=181&relb=15&brelb=15&bscr=17304.265148615515&scr=17304.265148615515&searchTestGroup=1_2_1&iid=8951682190152769198",
             "title": "Software Engineer Intern (Frontend/Backend/DevOps) ",
             "company": "Air Space Intelligence",
-            "description": "...and Dataflow, gaining hands-on experience in the most sought-after tech skills: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum: Sport...",
+            "description": "а...and Dataflow, gaining hands-on experience in the most sought-after tech skills: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum: Sport...а",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3725,7 +3569,7 @@
             "url": "https://ua.jooble.org/desc/1931163561479264654?ckey=c%2b%2b&rgn=31570&pos=5&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=157&relb=15&brelb=15&bscr=16995.99170337896&scr=16995.99170337896&searchTestGroup=1_2_1&iid=-3160885377414771666",
             "title": "Java Developer",
             "company": "SNI",
-            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location: Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
+            "description": "For one our global clients we are currently looking for Mid/Senior Java developers.\r\n Details: \r\n Role: Java Developer \r\n Permanent Role \r\n Work: Hybrid \r\n Office location:а Wroclaw, Poznan, Gdansk \r\n\r\n Client has a very rich benefit package (Flexible working hours, home...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3777,7 +3621,7 @@
             "url": "https://ua.jooble.org/jdp/-7353132085593946367?ckey=c%2b%2b&rgn=31570&pos=2&pageType=21&p=1&jobAge=373&brelb=100&recId=-7325999278675439720&iRecId=-2541717500614643103",
             "title": "CE international driver",
             "company": "BIRD TRANS",
-            "description": " i  i  .       . \r\n\r\n  80    (  )\r\n\r\n :   ,   (  )\r\n\r\n    ...",
+            "description": "Not info",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3790,7 +3634,7 @@
             "url": "https://ua.jooble.org/desc/1127791884560904951?ckey=c%2b%2b&rgn=31570&pos=3&pageType=21&p=1&jobAge=349&brelb=15&recId=-7325999278675439720&iRecId=-8736516447133237462",
             "title": "C++ Software Developer ",
             "company": "Spyrosoft",
-            "description": "...Documentation of development activities, Analyze and implement requirements, debugging, bugfixing, Understading of development process: C++, Safety Critical, Coding Standards, Code review, Code refactoring: Sport subscription, Training...",
+            "description": "а...Documentation of development activities, Analyze and implement requirements, debugging, bugfixing, Understading of development process: C++, Safety Critical, Coding Standards, Code review, Code refactoring: Sport subscription, Training...а",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3803,7 +3647,7 @@
             "url": "https://ua.jooble.org/desc/1568381098743274202?ckey=c%2b%2b&rgn=31570&pos=8&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=541&relb=115&brelb=115&bscr=16309.986520050046&scr=16309.986520050046&searchTestGroup=1_2_1&iid=7161618955209833866",
             "title": "Senior iOS Engineer 475",
             "company": "InterLogic",
-            "description": "Senior iOS Engineer 475\r\n Overview \r\n\r\n Weare looking for atechnically strong engineer with interest indeveloping Products together with anexperienced Team located inLviv, Gdansk and Copenhagen. \r\n Ifyou are open tonew challenges...",
+            "description": "Senior iOS Engineer 475\r\n Overview \r\n\r\n Weаare looking for aаtechnically strong engineer with interest inаdeveloping Products together with anаexperienced Team located inаLviv, Gdansk and Copenhagen. \r\n Ifаyou are open toаnew challenges...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3816,7 +3660,7 @@
             "url": "https://ua.jooble.org/desc/-4626519315457735597?ckey=c%2b%2b&rgn=31570&pos=9&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=565&relb=115&brelb=115&bscr=16204.612875565681&scr=16204.612875565681&searchTestGroup=1_2_1&iid=-2058497224012695259",
             "title": "Senior / Middle .NET Developer 474",
             "company": "InterLogic",
-            "description": "Senior / Middle .NET Developer 474\r\n OVERVIEW: \r\n Weare looking for experienced .NET Developer inPoland orUkraine tojoin our project intheHR domain. Recruitment, Onboarding &Talent Management all inone flexible and intuitive platform...",
+            "description": "Senior / Middle .NET Developer 474\r\n OVERVIEW: \r\n Weаare looking for experienced .NET Developer inаPoland orаUkraine toаjoin our project inаtheаHR domain. Recruitment, Onboarding &аTalent Management all inаone flexible and intuitive platform...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3829,7 +3673,7 @@
             "url": "https://ua.jooble.org/desc/-8752037572291736659?ckey=c%2b%2b&rgn=31570&pos=10&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=157&relb=15&brelb=15&bscr=16202.976416133779&scr=16202.976416133779&searchTestGroup=1_2_1&iid=-3714447816220698917",
             "title": "Fullstack Developer (Angular +.NET)",
             "company": "emagine Sp. Z o.o.",
-            "description": "INFORMACJE O PROJEKCIE: \r\n Branza  : IT \r\n Lokalizacja  : 100% zdalnie \r\n Stawka: 140 zl/h netto + VAT, B2B \r\n Projekt dlugoterminowy \r\n Klient docelowy: firma, ktora jest dostawca uslug rejestracyjnych dzialajaca w Dublinie w Irlandii. Projektuja, buduja i obsluguja...",
+            "description": "INFORMACJE O PROJEKCIE: \r\n Branza  : IT \r\n Lokalizacja  : 100% zdalnie \r\n Stawka: 140 zl/h netto + VAT,а B2B \r\n Projekt dlugoterminowy \r\n Klient docelowy: аfirma, ktora jest dostawca uslug rejestracyjnych dzialajaca w Dublinie w Irlandii. Projektuja, buduja i obsluguja...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3855,7 +3699,7 @@
             "url": "https://ua.jooble.org/desc/6117896420506166591?ckey=c%2b%2b&rgn=31570&pos=12&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=181&relb=15&brelb=15&bscr=15652.106582298726&scr=15652.106582298726&searchTestGroup=1_2_1&iid=-4037226818730428783",
             "title": "Release Engineer I (DevOps) ",
             "company": "Jamf",
-            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
+            "description": " What you'll do at Jamf  At Jamf, we empower people to be their best selves and do their best work.а\r\n The Business Operations Release Engineer I is responsible for the automation, development, and administration of our backend tools that version, merge, and promote changes...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3907,7 +3751,7 @@
             "url": "https://ua.jooble.org/desc/-5066259514231548461?ckey=c%2b%2b&rgn=31570&pos=16&elckey=6998736749154082701&pageType=21&p=1&sid=8661382125485614251&jobAge=157&relb=15&brelb=15&bscr=14389.96614466772&scr=14389.96614466772&searchTestGroup=1_2_1&iid=-8450740841115009883",
             "title": ".Net Developer",
             "company": "1dea",
-            "description": "Dla naszego klienta - lidera w swojej dziedzinie wykorzystujacego innowacyjne technologie IoT -poszukujemy doswiadczonego  .Net Developera.  Obszar:  IoT - wlasny produkt \r\n Lokalizacja:  Gdansk \r\n Model pracy:  Hybrydowy (2 dni w tygodniu stacjonarnie)\r\n Start:  ASAP...",
+            "description": "Dla naszego klienta - lidera w swojej dziedzinie wykorzystujacego innowacyjne technologie IoT -аposzukujemy doswiadczonego  .Net Developera.  Obszar:  IoT - wlasny produkt \r\n Lokalizacja:  Gdansk \r\n Model pracy:  Hybrydowy (2 dni w tygodniu stacjonarnie)\r\n Start:  ASAP...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3933,7 +3777,7 @@
             "url": "https://ua.jooble.org/desc/36380439403107869?ckey=c%2b%2b&rgn=31570&pos=1&elckey=-4460632081747282875&pageType=21&p=1&sid=-364292091673803180&jobAge=397&brelb=15&bscr=99.63993&scr=99.63993&searchTestGroup=1_2_1&iid=5453545131087835578",
             "title": "Remote Embedded Developer",
             "company": "Solwit, CoC for ALTEN",
-            "description": "...swobodne debugowanie, kompilowanie isamodzielne rozwiazywanie problemow, \r\n pisales/as juz jakies skrypty w Pythonie, znasz podstawy C++, \r\n posiadasz podstawowa wiedze o testowaniu i statycznej analizie kodu (mamy np. Klockwork, Coverity)\r\n jesli potrafisz tworzyc unit...",
+            "description": "...swobodne debugowanie, kompilowanie iаsamodzielne rozwiazywanie problemow, \r\n pisales/as juz jakies skrypty w Pythonie, znasz podstawy C++, \r\n posiadasz podstawowa wiedze o testowaniu i statycznej analizie kodu (mamy np. Klockwork, Coverity)\r\n jesli potrafisz tworzyc unit...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3946,7 +3790,7 @@
             "url": "https://ua.jooble.org/desc/-3579199866978878962?ckey=c%2b%2b&rgn=31570&pos=2&elckey=-4460632081747282875&pageType=21&p=1&sid=-364292091673803180&jobAge=181&brelb=15&bscr=85.89269&scr=85.89269&searchTestGroup=1_2_1&iid=-1940187232845856553",
             "title": "Software Engineer Intern (Frontend/Backend/DevOps) ",
             "company": "Air Space Intelligence",
-            "description": "...and Dataflow, gaining hands-on experience in the most sought-after tech skills: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum: Sport...",
+            "description": "а...and Dataflow, gaining hands-on experience in the most sought-after tech skills: Object-oriented programming, Python, Java, C++, Rust, Golang, C#, JavaScript, React, React native: GitHub, Notion, GIT, CircleCI, Agile, Scrum: Sport...а",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3959,7 +3803,7 @@
             "url": "https://ua.jooble.org/desc/5991872065537242378?ckey=c%2b%2b&rgn=31570&pos=3&elckey=-4460632081747282875&pageType=21&p=1&sid=-364292091673803180&jobAge=205&brelb=15&bscr=76.84785&scr=76.84785&searchTestGroup=1_2_1&iid=-4053496194971976949",
             "title": "Adaptive AUTOSAR Software Integration Engineer ",
             "company": "Capgemini Polska Sp. z o.o.",
-            "description": "...and other system services.    The ideal candidate will possess excellent and demonstrated skills in embedded software development in C++, and experience in integrating software with Adaptive AUTOSAR middleware. The job also requires working familiarity with software integration...",
+            "description": "а...and other system services.    The ideal candidate will possess excellent and demonstrated skills in embedded software development in C++, and experience in integrating software with Adaptive AUTOSAR middleware. The job also requires working familiarity with software integration...а",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3972,7 +3816,7 @@
             "url": "https://ua.jooble.org/desc/8995372307719597054?ckey=c%2b%2b&rgn=31570&pos=4&elckey=-4460632081747282875&pageType=21&p=1&sid=-364292091673803180&jobAge=517&brelb=15&bscr=76.18136&scr=76.18136&searchTestGroup=1_2_1&iid=1562293726212334119",
             "title": "Software Engineer",
             "company": "CloudFerro",
-            "description": "...aplikacji oraz ulepszenia techniczne, takie jak refaktoryzacja lub zwiekszenie zasiegu testow: Python, SQL, REST API, Git, Linux, C++, Kubernetes, OpenStack, Prometheus: Jira, Confluence, GitLab, Sonar, GIT, Agile, Scrum: Sport...",
+            "description": "...aplikacji oraz ulepszenia techniczne, takie jak refaktoryzacja lub zwiekszenie zasiegu testowа: Python, SQL, REST API, Git, Linux, C++, Kubernetes, OpenStack, Prometheus: Jira, Confluence, GitLab, Sonar, GIT, Agile, Scrum: Sport...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -4011,7 +3855,7 @@
             "url": "https://ua.jooble.org/desc/-144957401754170517?ckey=c%2b%2b&rgn=31570&pos=7&elckey=-4460632081747282875&pageType=21&p=1&sid=-364292091673803180&jobAge=229&brelb=15&bscr=36.561405&scr=36.561405&searchTestGroup=1_2_1&iid=-6251983025137744648",
             "title": "Fullstack Developer ",
             "company": "Ework Group",
-            "description": "...Concepts \r\n Design Patterns \r\n Architectural Patterns \r\n Proficiency in at least one Object Oriented Language (example: Python, C#, C++, Java), and others at level medium or higher \r\n Proficiency in testing concepts and testing concepts design patterns \r\n Knowledge...",
+            "description": "а...Concepts \r\nХ Design Patterns \r\nХ Architectural Patterns \r\nХ Proficiency in at least one Object Oriented Language (example: Python, C#, C++, Java), and others at level medium or higher \r\nХ Proficiency in testing concepts and testing concepts design patterns \r\nХ Knowledge...а",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -4050,7 +3894,7 @@
             "url": "https://ua.jooble.org/desc/1127791884560904951?ckey=c%2b%2b&rgn=31570&pos=3&pageType=21&p=1&jobAge=349&brelb=15&recId=524386566872403594&iRecId=856151652084073319",
             "title": "C++ Software Developer ",
             "company": "Spyrosoft",
-            "description": "...Documentation of development activities, Analyze and implement requirements, debugging, bugfixing, Understading of development process ] : C++, Safety Critical, Coding Standards, Code review, Code refactoring : .   : Sport subscription, Training...",
+            "description": "а...Documentation of development activities, Analyze and implement requirements, debugging, bugfixing, Understading of development process ] ┬шьюуш: C++, Safety Critical, Coding Standards, Code review, Code refactoring ▓эёЄЁєьхэЄш: . ┴юэєёш Єр яхЁхтруш: Sport subscription, Training...а",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -4063,7 +3907,7 @@
             "url": "https://ua.jooble.org/desc/-5598207923434481837?ckey=c%2b%2b&rgn=31570&pos=8&elckey=-4460632081747282875&pageType=21&p=1&sid=-364292091673803180&jobAge=325&brelb=15&bscr=35.02412&scr=35.02412&searchTestGroup=1_2_1&iid=3505132917034213424",
             "title": "Senior Expert Fullstack Developer ",
             "company": "Avenga",
-            "description": "...Min. 8 years of professional experience as software developer \r\n Proficiency in at least one Object Oriented Language (Python, C#, C++, Java), and others at level expert \r\n Proficiency in at least one Frontend Framework based on Javascript (Example: React.js, Angular....",
+            "description": "а...Min. 8 years of professional experience as software developer \r\n Proficiency in at least one Object Oriented Language (Python, C#, C++, Java), and others at level expert \r\n Proficiency in at least one Frontend Framework based on Javascript (Example: React.js, Angular....а",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -4076,7 +3920,7 @@
             "url": "https://ua.jooble.org/desc/-3126623375472859719?ckey=c%2b%2b&rgn=31570&pos=9&elckey=-4460632081747282875&pageType=21&p=1&sid=-364292091673803180&jobAge=445&brelb=15&bscr=31.553457&scr=31.553457&searchTestGroup=1_2_1&iid=8791093447593007054",
             "title": "Data Scientist ",
             "company": "Devire",
-            "description": " Devire IT Outsourcing is a form of cooperation dedicated to IT professionals, based on the principles of own business - B2B, implementing projects for clients running innovative and modern projects.\n Our client is a well-known international bank with Scandinavian roots...",
+            "description": " Devire IT Outsourcing аis a form of cooperation dedicated to IT professionals, based on the principles of own business - B2B, implementing projects for clients running innovative and modern projects.\n Our client is a well-known international bank with Scandinavian roots...",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"

@@ -3,16 +3,16 @@
         "model": "scraping.city",
         "pk": 1,
         "fields": {
-            "name": "Kiev",
-            "slug": "kiev"
+            "name": "KievмуктыщкыщкУушзщкщз",
+            "slug": "kievРџСЂРёРјРµСЂ"
         }
     },
     {
-        "model": "scraping.city",
+        "model": "scraping.cityРџСЂРёРјРµСЂ",
         "pk": 2,
         "fields": {
-            "name": "Gdansk",
-            "slug": "gdansk"
+            "name": "GdanskРџСЂРёРјРµСЂ",
+            "slug": "gdanskРџСЂРёРјРµСЂ"
         }
     },
     {
@@ -72,7 +72,7 @@
             "url": "https://www.work.ua/jobs/5536195/",
             "title": "Python Developer",
             "company": "No name",
-            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             Requirements: Bachelor's or Master's degree in Computer Science, Engineering, or a related field; Commercial experience with Python from the 1st year; Experience with MySQL/PostgreSQL/MongoDB or other databases;Е",
+            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             Requirements: Bachelor's or Master's degree in Computer Science, Engineering, or a related field; Commercial experience with Python from the 1st year; Experience with MySQL/PostgreSQL/MongoDB or other databases;",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -85,7 +85,7 @@
             "url": "https://www.work.ua/jobs/4913105/",
             "title": "Middle Python Developer in Test (Malevich)",
             "company": "No name",
-            "description": "Full employment. They are also ready to take a student. Work experience from 2 years.\r\n                             Ajax Systems is a developer and manufacturer of Ajax wireless security systems with smart home capabilities. This is a whole ecosystem of 36 devices, mobile and desktop applications, server infrastructure. In the Ajax lineЕ",
+            "description": "Full employment. They are also ready to take a student. Work experience from 2 years.\r\n                             Ajax Systems is a developer and manufacturer of Ajax wireless security systems with smart home capabilities. This is a whole ecosystem of 36 devices, mobile and desktop applications, server infrastructure. In the Ajax linе",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -111,7 +111,7 @@
             "url": "https://www.work.ua/jobs/5532805/",
             "title": "Web Scraping Data Engineer",
             "company": "No name",
-            "description": "Full time, part time. Work experience from 2 years.\r\n                             Web Scraping Engineer We are looking for a talented and energetic Web Scraping Engineer to join our team at 4Square Capital. You are responsible for collecting data from the Internet byЕ",
+            "description": "Full time, part time. Work experience from 2 years.\r\n                             Web Scraping Engineer We are looking for a talented and energetic Web Scraping Engineer to join our team at 4Square Capital. You are responsible for collecting data from the Internet by",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -149,8 +149,8 @@
         "fields": {
             "url": "https://jobs.dou.ua/companies/epam-systems/vacancies/257516/?from=list_hot",
             "title": "Senior Python Machine Learning Engineer",
-            "company": "аEPAM",
-            "description": "\n\t\t\t\tWeаare seeking aаhighly skilled and motivated Python Machine Learning Engineer with extensive experience designing, developing and deploying Machine Learning models and NLP applications.\n\t\t\t",
+            "company": "EPAM",
+            "description": "\n\t\t\t\tWeаare seeking highly skilled and motivated Python Machine Learning Engineer with extensive experience designing, developing and deploying Machine Learning models and NLP applications.\n\t\t\t",
             "city": 1,
             "language": 1,
             "timestamp": "2024-02-22"
@@ -476,7 +476,7 @@
         "fields": {
             "url": "https://ua.jooble.org/desc/-1808860975984230995?ckey=python&rgn=1&pos=1&pageType=21&p=1&jobAge=157&brelb=100&recId=4437745908499924606&iRecId=-8701379564678790610",
             "title": "software engineer",
-            "company": "''",
+            "company": "Not info",
             "description": "Description\r\n  Programmer engineer 1 cat.\r\nThe work of a system administrator.\r\nMore details during the interview. Profession:\r\n  software engineer Mode of work:\r\n5-day work week",
             "city": 1,
             "language": 1,
@@ -735,7 +735,7 @@
         "pk": 1165,
         "fields": {
             "url": "https://www.ria.com/rabota-programist-c-linux-169628105.html",
-            "title": "╧ЁюуЁрь│ёЄ C++ Linux",
+            "title": "C++ Linux",
             "company": "EPAM",
             "description": "No data",
             "city": 1,
@@ -918,7 +918,7 @@
         "fields": {
             "url": "https://ua.jooble.org/desc/-1808860975984230995?ckey=python&rgn=1&pos=1&pageType=21&p=1&jobAge=157&brelb=100&recId=-4033575654747457&iRecId=7686704373736640619",
             "title": "software engineer",
-            "company": "''",
+            "company": "Not info",
             "description": "Description\r\n  Programmer engineer 1 cat.\r\nThe work of a system administrator.\r\nMore details during the interview. Profession:\r\n  software engineer Mode of work:\r\n5-day work week",
             "city": 1,
             "language": 1,
@@ -1010,7 +1010,7 @@
             "url": "https://www.work.ua/jobs/3209750/",
             "title": "Senior Java Developer",
             "company": "No name",
-            "description": "Full employment. Work experience from 5 years. Higher Education.\r\nWe are looking for a person, possessing: 5-10 years of experience in IT software development; including 3 4 years of Java development; CORE Java (Collections, multithreading, exception handling); J2EE, Servlets,Е",
+            "description": "Full employment. Work experience from 5 years. Higher Education.\r\nWe are looking for a person, possessing: 5-10 years of experience in IT software development; including 3 4 years of Java development; CORE Java (Collections, multithreading, exception handling); J2EE, Servlets,",
             "city": 1,
             "language": 2,
             "timestamp": "2024-02-22"
@@ -1748,7 +1748,7 @@
             "url": "https://www.work.ua/jobs/5523028/",
             "title": "Middle C++ Developer (Win API)",
             "company": "No name",
-            "description": "Full employment. Work experience from 2 years. IMPORTANT! Relevant as of February 22, 2024, 1 month internship. We are seeking a specialist to join our long-term project which has been in production for several years and manages a high volume of requests perЕ",
+            "description": "Full employment. Work experience from 2 years. IMPORTANT! Relevant as of February 22, 2024, 1 month internship. We are seeking a specialist to join our long-term project which has been in production for several years and manages a high volume of requests per",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -1761,7 +1761,7 @@
             "url": "https://www.work.ua/jobs/4939220/",
             "title": "Not info",
             "company": "No name",
-            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             SNPO \"IMPULS\" is the market leader of control and management systems (CMS) for the nuclear power industry and railways of Ukraine. Thanks to many years of unique experience and advanced technologies, ECU developments correspond to the bestЕ",
+            "description": "Full employment. Work experience from 1 year. Higher Education.\r\n                             SNPO \"IMPULS\" is the market leader of control and management systems (CMS) for the nuclear power industry and railways of Ukraine. Thanks to many years of unique experience and advanced technologies, ECU developments correspond to the best",
             "city": 1,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -2749,7 +2749,7 @@
         "fields": {
             "url": "https://ua.jooble.org/desc/8989730227417168225?ckey=python&rgn=31570&pos=2&pageType=21&p=1&jobAge=8149&brelb=100&recId=-5567767337580898572&iRecId=-7845608748038763719",
             "title": "DevOps Engineer",
-            "company": "",
+            "company": "Not info",
             "description": "REQUIREMENTS:\r\n\r\n Experience in DevOps from 4 years;\r\n Expertise with Azure;\r\n Practical skills with Kubernetes, Docker, Jenkins;\r\n English: Upper-Intermediate level or higher.\r\n \r\nCOMPANY OFFERS:\r\n\r\n Employment as a private entrepreneur, its support is provided by company...",
             "city": 2,
             "language": 1,
@@ -2957,7 +2957,7 @@
         "fields": {
             "url": "https://ua.jooble.org/desc/8989730227417168225?ckey=python&rgn=31570&pos=2&pageType=21&p=1&jobAge=8149&brelb=100&recId=5887999721226287654&iRecId=5522862618881879224",
             "title": "DevOps Engineer",
-            "company": "",
+            "company": "Not info",
             "description": "REQUIREMENTS:\r\n\r\n Experience in DevOps from 4 years;\r\n Expertise with Azure;\r\n Practical skills with Kubernetes, Docker, Jenkins;\r\n English: Upper-Intermediate level or higher.\r\n \r\nCOMPANY OFFERS:\r\n\r\n Employment as a private entrepreneur, its support is provided by company...",
             "city": 2,
             "language": 1,
@@ -3621,7 +3621,7 @@
             "url": "https://ua.jooble.org/jdp/-7353132085593946367?ckey=c%2b%2b&rgn=31570&pos=2&pageType=21&p=1&jobAge=373&brelb=100&recId=-7325999278675439720&iRecId=-2541717500614643103",
             "title": "CE international driver",
             "company": "BIRD TRANS",
-            "description": "═р яюёЄiщэє ЁюсюЄє тюфi║ь яю ктЁюя│. ╬Ї│Ў│щэх яЁрЎхтыр°Єєтрээ  эр Ї│Ёь│ є ╧юы№∙│ ь. ╫хэёЄрїютр\r\n\r\n╟рЁюс│Єэр яырЄр 80 ║тЁю эр фюсє (ўшёЄшьш эр Ёєъш)\r\n\r\n├ЁрЇ│ъ ЁюсюЄш: ЄЁш ь│ё Ў│ ЁюсюЄш, ь│ё Ў№ т│фяєёЄъш (ьюцыштю │эфшт│фєры№эю фюьютшЄшё№)\r\n\r\nяхЁ°шщ Єшцфхэ№ яЁръЄшър ч юяырЄю■...",
+            "description": "Not info",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
@@ -3894,7 +3894,7 @@
             "url": "https://ua.jooble.org/desc/1127791884560904951?ckey=c%2b%2b&rgn=31570&pos=3&pageType=21&p=1&jobAge=349&brelb=15&recId=524386566872403594&iRecId=856151652084073319",
             "title": "C++ Software Developer ",
             "company": "Spyrosoft",
-            "description": "а...Documentation of development activities, Analyze and implement requirements, debugging, bugfixing, Understading of development process ] ┬шьюуш: C++, Safety Critical, Coding Standards, Code review, Code refactoring ▓эёЄЁєьхэЄш: . ┴юэєёш Єр яхЁхтруш: Sport subscription, Training...а",
+            "description": "а...Documentation of development activities, Analyze and implement requirements, debugging, bugfixing, Understading of development process",
             "city": 2,
             "language": 3,
             "timestamp": "2024-02-22"
