@@ -7,8 +7,8 @@ def defaults_url():
 
 
 class City(models.Model):
-    name = models.CharField(max_length=50, unique=True)
-    slug = models.CharField(max_length=50, blank=True, unique=True)
+    name = models.CharField(max_length=100, unique=True)
+    slug = models.CharField(max_length=100, blank=True, unique=True)
 
     class Meta:
         verbose_name = 'Name city'
@@ -24,8 +24,8 @@ class City(models.Model):
 
 
 class Language(models.Model):
-    name = models.CharField(max_length=50, unique=True)
-    slug = models.CharField(max_length=50, blank=True, unique=True)
+    name = models.CharField(max_length=100, unique=True)
+    slug = models.CharField(max_length=100, blank=True, unique=True)
 
     class Meta:
         verbose_name = 'Name language'
@@ -42,8 +42,8 @@ class Language(models.Model):
 
 class Vacancy(models.Model):
     url = models.URLField(unique=True, max_length=1000)
-    title = models.CharField(max_length=250, verbose_name='title')
-    company = models.CharField(max_length=250, verbose_name='company')
+    title = models.CharField(max_length=500, verbose_name='title')
+    company = models.CharField(max_length=500, verbose_name='company')
     description = models.TextField(verbose_name='description')
     city = models.ForeignKey('City', on_delete=models.CASCADE, verbose_name='city')
     language = models.ForeignKey('Language', on_delete=models.CASCADE, verbose_name='language')
