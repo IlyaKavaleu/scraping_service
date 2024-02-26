@@ -22,25 +22,25 @@ from scraping.models import Vacancy, Language, City, Error, Url
 User = get_user_model()
 
 parsers = (
-    # (work, 'work'),
-    # (dou, 'dou'),
-    # (jooble, 'jooble'),
-    # (ria, 'ria'),
-    # (work_java, 'work_java'),
-    # (dou_java, 'dou_java'),
-    # (jooble_java, 'jooble_java'),
-    # (ria_java, 'ria_java'),
-    # (work_c_plus_plus, 'work_c_plus_plus'),
-    # (dou_c_plus_plus, 'dou_c_plus_plus'),
-    # (jooble_c_plus_plus, 'jooble_c_plus_plus'),
-    # (ria_c_plus_plus, 'ria_c_plus_plus'),
+    (work, 'work'),
+    (dou, 'dou'),
+    (jooble, 'jooble'),
+    (ria, 'ria'),
+    (work_java, 'work_java'),
+    (dou_java, 'dou_java'),
+    (jooble_java, 'jooble_java'),
+    (ria_java, 'ria_java'),
+    (work_c_plus_plus, 'work_c_plus_plus'),
+    (dou_c_plus_plus, 'dou_c_plus_plus'),
+    (jooble_c_plus_plus, 'jooble_c_plus_plus'),
+    (ria_c_plus_plus, 'ria_c_plus_plus'),
 
-    # (jooble_python_gdansk, 'jooble_python_gdansk'),
-    # (dou_python_gdansk, 'dou_python_gdansk'),
+    (jooble_python_gdansk, 'jooble_python_gdansk'),
+    (dou_python_gdansk, 'dou_python_gdansk'),
 
-    # (jooble_java_gdansk, 'jooble_java_gdansk'),
-    # (dou_java_gdansk, 'dou_java_gdansk'),
-    #
+    (jooble_java_gdansk, 'jooble_java_gdansk'),
+    (dou_java_gdansk, 'dou_java_gdansk'),
+
     (dou_c_plus_plus_gdansk, 'dou_c_plus_plus_gdansk'),
     (jooble_c_plus_plus_gdansk, 'jooble_c_plus_plus_gdansk'),
 )

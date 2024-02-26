@@ -3,7 +3,6 @@ from random import randint
 import requests
 import codecs
 from bs4 import BeautifulSoup as BS
-from utils import from_cyrillic_to_eng
 
 __all__ = ('work', 'dou', 'jooble', 'ria',
            'work_java', 'dou_java', 'jooble_java', 'ria_java',
