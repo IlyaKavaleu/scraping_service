@@ -10,6 +10,7 @@
               {% csrf_token %}
               {{ form.as_p }}
             <button type="submit" class="btn btn-primary">Save</button>
+          </div>
         </form>
         <form method="POST" action="{% url 'accounts:delete' %}" id="brand">
             {% csrf_token %}
@@ -37,6 +38,7 @@
                           {% csrf_token %}
                           {{ contact_form.as_p }}
                           <button type="submit" class="btn btn-primary">Save</button>
+                      </div>
                   </form>
               </div>
             </div>
@@ -46,8 +48,6 @@
 <br>
 </div>
 {% endblock content %}
-
-{% include 'scraping/man.html' %}
 
 
 

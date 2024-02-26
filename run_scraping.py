@@ -72,56 +72,55 @@ def get_urls(_settings):
 
 async def main(value):
     func, url, city, language = value
+    loop = asyncio.get_running_loop()
     job, err = await loop.run_in_executor(None, func, url, city, language)
     errors.extend(err)
     jobs.extend(job)
 
-async def run_parsers():
-    settings = get_settings()
-    url_list = get_urls(settings)
-
-    loop = asyncio.get_event_loop()
-    tmp_tasks = [(func, data['url_data'][key], data['city'], data['language'])
-                 for data in url_list
-                 for func, key in parsers]
-
-    # for data in url_list:
-    #     for func, key in parsers:
-    #         url = data['url_data'][key]
-    #         j, e = func(url, city=data['city'], language=data['language'])
-    #         jobs += j
-    #         errors += e
-
-    if tmp_tasks:
-        tasks = asyncio.wait([loop.create_task(main(f)) for f in tmp_tasks])
-        loop.run_until_complete(tasks)
-        loop.close()
-
-    for job in jobs:
-        v = Vacancy(
-            url=job['url'],
-            title=job['title'],
-            company=job['company'],
-            description=job['description'],
-        )
-        try:
-            v.save()
-        except DatabaseError:
-            pass
-
-    if errors:
-        qs = Error.objects.filter(timestamp=dt.date.today())
-        if qs.exists():
-            err = qs.first()
-            err.data.update({'errors': errors})
-            err.save()
-        else:
-            er = Error(data=f'errors:{errors}').save()
-
-
+settings = get_settings()
+url_list = get_urls(settings)
 loop = asyncio.get_event_loop()
-loop.run_until_complete(run_parsers())
 
+tmp_tasks = [(func, data['url_data'][key], data['city'], data['language'])
+             for data in url_list
+             for func, key in parsers]
+
+# for data in url_list:
+#     for func, key in parsers:
+#         url = data['url_data'][key]
+#         j, e = func(url, city=data['city'], language=data['language'])
+#         jobs += j
+#         errors += e
+
+if tmp_tasks:
+    loop = asyncio.get_event_loop()
+    tasks = asyncio.wait([loop.create_task(main(f)) for f in tmp_tasks])
+    loop.run_until_complete(tasks)
+    loop.close()
+
+for job in jobs:
+    v = Vacancy(
+        **job,
+    )
+    try:
+        v.save()
+    except DatabaseError:
+        pass
+
+if errors:
+    qs = Error.objects.filter(timestamp=dt.date.today())
+    if qs.exists():
+        err = qs.first()
+        err.data.update({'errors': errors})
+        err.save()
+    else:
+        er = Error(data=f'errors:{errors}').save()
+print(jobs)
+print('')
+
+# h = codecs.open('work.txt', 'w', 'utf-8')
+# h.write(str(jobs))
+# h.close()
 ten_days_ago = dt.date.today() - dt.timedelta(10)
 Vacancy.objects.filter(timestamp__lte=ten_days_ago).delete()
 
