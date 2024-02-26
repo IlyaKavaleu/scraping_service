@@ -115,8 +115,6 @@ if errors:
         err.save()
     else:
         er = Error(data=f'errors:{errors}').save()
-print(jobs)
-print('')
 
 # h = codecs.open('work.txt', 'w', 'utf-8')
 # h.write(str(jobs))

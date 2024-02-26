@@ -41,9 +41,6 @@ def work(url, city=None, language=None):
                     href = title.a['href']
                     content = div.p.text
                     company = 'No name'
-                    logo = div.find('')
-                    if logo:
-                        company = logo['alt']
                     jobs.append({
                         'title': title.text,
                         'url': domain + href,
@@ -78,9 +75,6 @@ def work_java(url, city=None, language=None):
                     href = title.a['href']
                     content = div.p.text
                     company = 'No name'
-                    logo = div.find('')
-                    if logo:
-                        company = logo['alt']
                     jobs.append({
                         'title': title.text,
                         'url': domain + href,
@@ -115,15 +109,13 @@ def work_c_plus_plus(url, city=None, language=None):
                     href = title.a['href']
                     content = div.p.text
                     company = 'No name'
-                    logo = div.find('')
-                    if logo:
-                        company = logo['alt']
                     jobs.append({
                         'title': title.text,
                         'url': domain + href,
                         'description': content,
                         'company': company,
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
             else:
                 errors.append({
@@ -152,14 +144,13 @@ def jooble(url, city=None, language=None):
                     href = date.find('a', attrs={'class': '_8w9Ce2 tUC4Fj hyperlink_appearance_undefined _6i4Nb0 g2JQMz'})['href']
                     content = date.find('div', attrs={'class': 'PAM72f'})
                     company = date.find('p', attrs={'class': 'z6WlhX'})
-                    logo = date.find('img', attrs={'class': '_3hk3rl'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text if company else '',
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
             else:
                 errors.append({
@@ -190,14 +181,13 @@ def jooble_java(url, city=None, language=None):
                     content = date.find('div', attrs={'class': 'PAM72f'})
                     company = date.find('p', attrs={'class': 'z6WlhX'})
 
-                    logo = date.find('img', attrs={'class': '_3hk3rl'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
             else:
                 errors.append({
@@ -228,14 +218,13 @@ def jooble_c_plus_plus(url, city=None, language=None):
                     content = date.find('div', attrs={'class': 'PAM72f'})
                     company = date.find('p', attrs={'class': 'z6WlhX'})
 
-                    logo = date.find('img', attrs={'class': '_3hk3rl'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
             else:
                 errors.append({
@@ -264,14 +253,13 @@ def dou(url, city=None, language=None):
                     href = date.find('div', class_='title').a['href']
                     content = date.find('div', attrs={'class': 'sh-info'})
                     company = date.find('div', attrs={'class': 'title'}).find('a', attrs={'class': 'company'})
-                    logo = date.find('div', attrs={'class': 'title'}).find('img', attrs={'class': 'f-i'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
 
             else:
@@ -301,14 +289,13 @@ def dou_java(url, city=None, language=None):
                     href = date.find('div', class_='title').a['href']
                     content = date.find('div', attrs={'class': 'sh-info'})
                     company = date.find('div', attrs={'class': 'title'}).find('a', attrs={'class': 'company'})
-                    logo = date.find('div', attrs={'class': 'title'}).find('img', attrs={'class': 'f-i'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
 
             else:
@@ -338,14 +325,13 @@ def dou_c_plus_plus(url, city=None, language=None):
                     href = date.find('div', class_='title').a['href']
                     content = date.find('div', attrs={'class': 'sh-info'})
                     company = date.find('div', attrs={'class': 'title'}).find('a', attrs={'class': 'company'})
-                    logo = date.find('div', attrs={'class': 'title'}).find('img', attrs={'class': 'f-i'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
 
             else:
@@ -375,14 +361,13 @@ def ria(url, city=None, language=None):
                     href = date.find('a', attrs={'class': 'ticket-title'})['href']
                     content = 'No data'
                     company = 'EPAM'
-                    logo = date.find('img', attrs={'class': 'img-ticket'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content,
                         'company': company,
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
             else:
                 errors.append({
@@ -411,14 +396,13 @@ def ria_java(url, city=None, language=None):
                     href = date.find('a', attrs={'class': 'ticket-title'})['href']
                     content = 'No data'
                     company = 'EPAM'
-                    logo = date.find('img', attrs={'class': 'img-ticket'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content,
                         'company': company,
-                        'logo': logo['src'] if logo else 'No logo',
-                        'city_id': city, 'language_id': language,
+                        'city_id': city,
+                        'language_id': language,
                     })
             else:
                 errors.append({
@@ -447,13 +431,11 @@ def ria_c_plus_plus(url, city=None, language=None):
                     href = date.find('a', attrs={'class': 'ticket-title'})['href']
                     content = 'No data'
                     company = 'EPAM'
-                    logo = date.find('img', attrs={'class': 'img-ticket'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content,
                         'company': company,
-                        'logo': logo['src'] if logo else 'No logo',
                         'city_id': city, 'language_id': language,
                     })
             else:
@@ -494,13 +476,11 @@ def jooble_python_gdansk(url, city=None, language=None):
                     href = date.find('a', attrs={'class': '_8w9Ce2 tUC4Fj hyperlink_appearance_undefined _6i4Nb0 g2JQMz'})['href']
                     content = date.find('div', attrs={'class': 'PAM72f'})
                     company = date.find('p', attrs={'class': 'z6WlhX'})
-                    logo = date.find('img', attrs={'class': '_3hk3rl'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text if company else '',
-                        'logo': logo['src'] if logo else 'No logo',
                         'city_id': city, 'language_id': language,
                     })
             else:
@@ -532,13 +512,11 @@ def jooble_java_gdansk(url, city=None, language=None):
                     content = date.find('div', attrs={'class': 'PAM72f'})
                     company = date.find('p', attrs={'class': 'z6WlhX'})
 
-                    logo = date.find('img', attrs={'class': '_3hk3rl'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
                         'city_id': city, 'language_id': language,
                     })
             else:
@@ -570,13 +548,11 @@ def jooble_c_plus_plus_gdansk(url, city=None, language=None):
                     content = date.find('div', attrs={'class': 'PAM72f'})
                     company = date.find('p', attrs={'class': 'z6WlhX'})
 
-                    logo = date.find('img', attrs={'class': '_3hk3rl'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
                         'city_id': city, 'language_id': language,
                     })
             else:
@@ -606,13 +582,11 @@ def dou_python_gdansk(url, city=None, language=None):
                     href = date.find('div', class_='title').a['href']
                     content = date.find('div', attrs={'class': 'sh-info'})
                     company = date.find('div', attrs={'class': 'title'}).find('a', attrs={'class': 'company'})
-                    logo = date.find('div', attrs={'class': 'title'}).find('img', attrs={'class': 'f-i'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
                         'city_id': city, 'language_id': language,
                     })
 
@@ -643,13 +617,11 @@ def dou_java_gdansk(url, city=None, language=None):
                     href = date.find('div', class_='title').a['href']
                     content = date.find('div', attrs={'class': 'sh-info'})
                     company = date.find('div', attrs={'class': 'title'}).find('a', attrs={'class': 'company'})
-                    logo = date.find('div', attrs={'class': 'title'}).find('img', attrs={'class': 'f-i'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
                         'city_id': city, 'language_id': language,
                     })
 
@@ -680,13 +652,11 @@ def dou_c_plus_plus_gdansk(url, city=None, language=None):
                     href = date.find('div', class_='title').a['href']
                     content = date.find('div', attrs={'class': 'sh-info'})
                     company = date.find('div', attrs={'class': 'title'}).find('a', attrs={'class': 'company'})
-                    logo = date.find('div', attrs={'class': 'title'}).find('img', attrs={'class': 'f-i'})
                     jobs.append({
                         'title': title.text,
                         'url': href,
                         'description': content.text,
                         'company': company.text,
-                        'logo': logo['src'] if logo else 'No logo',
                         'city_id': city, 'language_id': language,
                     })
 
