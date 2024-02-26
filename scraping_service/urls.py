@@ -16,9 +16,16 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from scraping.views import handler400, handler403, handler404, handler500
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('accounts/', include('accounts.urls', 'accounts')),
     path('', include('scraping.urls')),
+
+    path('400/', handler400, name='handler400'),
+    path('403/', handler403, name='handler403'),
+    path('404/', handler404, name='handler404'),
+    path('500/', handler500, name='handler500'),
 ]

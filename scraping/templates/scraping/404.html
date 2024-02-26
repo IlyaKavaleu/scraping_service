@@ -1,52 +1,13 @@
 {% extends 'scraping/base.html' %}
+{% block content %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Error 404 - Not Found</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-
-        .error-container {
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 48px;
-            margin-bottom: 20px;
-        }
-
-        p {
-            font-size: 24px;
-        }
-
-        .hint {
-            margin-top: 20px;
-            font-size: 16px;
-        }
-
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <title id="brand">Error 404 - Not Found</title>
 </head>
-<body>
+<body id="brand">
     <div class="error-container">
         <h1>Error 404 - Not Found</h1>
         <p>Sorry, the page you are looking for could not be found.</p>
@@ -56,3 +17,4 @@
     </div>
 </body>
 </html>
+{% endblock content %}

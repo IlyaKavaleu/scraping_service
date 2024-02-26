@@ -1,5 +1,4 @@
 import json
-
 from django.core.paginator import Paginator
 from django.shortcuts import render
 from .models import Vacancy
@@ -33,3 +32,17 @@ def list_view(request):
     return render(request, 'scraping/list.html', context)
 
 
+def handler400(request, exception):
+    return render(request, 'scraping/400.html', status=400)
+
+
+def handler403(request, exception):
+    return render(request, 'scraping/403.html', status=403)
+
+
+def handler404(request, exception):
+    return render(request, 'scraping/404.html', status=404)
+
+
+def handler500(request):
+    return render(request, 'scraping/500.html', status=500)

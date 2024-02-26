@@ -1,53 +1,15 @@
-{% extends 'scraping/base.html' %}
+{% extends 'base.html' %}
+{% block content %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Error 400 - Bad Request</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-
-        .error-container {
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 48px;
-            margin-bottom: 20px;
-        }
-
-        p {
-            font-size: 24px;
-        }
-
-        .hint {
-            margin-top: 20px;
-            font-size: 16px;
-        }
-
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <title id="brand">Error 400 - Bad Request</title>
 </head>
-<body>
+<body id="brand">
     <div class="error-container">
+        {{ status }}
         <h1>Error 400 - Bad Request</h1>
         <p>Sorry, your request cannot be processed due to a bad request.</p>
         <p>Please check your input and try again.</p>
@@ -57,3 +19,4 @@
     </div>
 </body>
 </html>
+{% endblock content %}
