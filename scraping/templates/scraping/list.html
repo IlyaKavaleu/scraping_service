@@ -2,46 +2,48 @@
 {% block content %}
 <html>
 <body>
-{% for object in objects_list %}
-      <div class="card my-2">
-        <h5 class="card-header"><a href="{{ object.url }}" id="brand">{{ object.title }}</a></h5>
-          <div class="card-body">
-          <h4 id="brand">{{ object.company }}</h4>
-          <p class="card-text" id="brand">{{ object.description }}</p>
-            <p id="brand">{{ object.city.name }} | {{ object.language.name }} |
-              <small>{{ object.timestamp|date:"d-m-Y" }}</small>
-            </p>
+
+{% if object_list %}
+    {% for object in object_list %}
+          <div class="card my-2">
+            <h5 class="card-header"><a href="{{ object.url }}" id="brand">{{ object.title }}</a></h5>
+              <div class="card-body">
+              <h4 id="brand">{{ object.company }}</h4>
+              <p class="card-text" id="brand">{{ object.description }}</p>
+                <p id="brand">{{ object.city.name }} | {{ object.language.name }} |
+                  <small>{{ object.timestamp|date:"d-m-Y" }}</small>
+                </p>
+              </div>
           </div>
-      </div>
-      {% empty %}
-      <div class="col-md-6 mx-auto">
-        <h3 id="brand">Unfortunately nothing was found</h3>
-      </div>
-{% endfor %}
+          {% empty %}
+          <div class="col-md-6 mx-auto">
+            <h3 id="brand">Unfortunately nothing was found</h3>
+          </div>
+    {% endfor %}
+{% endif %}
 
 
-{% if objects_list %}
-    <div class="row" style="text-align: center">
+<div class="row" style="text-align: center">
         <div class="col">
         <nav aria-label="Page navigation example">
           <ul class="pagination" id="brand">
-            {% if objects_list.has_previous %}
+            {% if page_object.has_previous %}
               <li class="page-item">
                   <a class="page-link" href="?city={{city}}&language={{language }}&page=1" aria-label="Previous">
                       <span aria-hidden="true">&laquo;</span>
                   </a>
               </li>
             {% endif %}
-            {% for page in objects_list.paginator.page_range %}
+            {% for page in page_object.paginator.page_range %}
               <li class="page-item
-                      {% if page == objects_list.number %} active
+                      {% if page == page_object.number %} active
                       {% endif %}">
                   <a class="page-link" href="?city={{city}}&language={{language}}&page={{page}}">{{page}}</a>
               </li>
             {% endfor %}
-              {% if objects_list.has_next %}
+              {% if page_object.has_next %}
                   <li class="page-item">
-                        <a class="page-link" href="?city={{ city }}&language={{language}}&page={{ objects_list.next_page_number }}" aria-label="Next">
+                        <a class="page-link" href="?city={{ city }}&language={{language}}&page={{ page_object.next_page_number }}" aria-label="Next">
                             <span aria-hidden="true">&raquo;</span>
                         </a>
                   </li>
@@ -50,10 +52,9 @@
         </nav>
     </div>
 </div>
-{% endif %}
 <div class="row">
     <div class="col-md-6 mx-auto">
-        <h4 id="brand">Для просмотра достпуных вакансий, заполните форму по одному из полей (либо город, либо язык программирования)</h4>
+        <h4 id="brand">To view available vacancies, fill out the form using one of the fields (either city or programming language)</h4>
         <form method=GET action="{% url 'scraping:list' %}">
             <div class="form-group" id="brand">
                 {{ form.as_p }}

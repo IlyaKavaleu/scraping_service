@@ -1,0 +1,16 @@
+{% extends 'scraping/base.html' %}
+{% block title %}Detail{{ object.title }}{% endblock title %}
+
+
+{% block content %}
+    <div class="card my-3">
+        <h5 class="card-header"><a href="{{ object.url }}" id="brand">{{ object.title }}</a></h5>
+          <div class="card-body">
+          <h4 id="brand">{{ object.company }}</h4>
+          <p class="card-text" id="brand">{{ object.description }}</p>
+            <p id="brand">{{ object.city.name }} | {{ object.language.name }} |
+              <small>{{ object.timestamp|date:"d-m-Y" }}</small>
+            </p>
+          </div>
+      </div>
+{% endblock content %}

@@ -5,13 +5,13 @@
 <div class="row">
   <div class="col">
     <h2 class="text-center my-3" id="brand">
-      Сервис по сбору и рассылке вакансий
+      Service for collecting and distributing vacancies
     </h2>
   </div>
 </div>
     <div class="row">
       <div class="col-md-8 mx-auto">
-        <h4 class="my-2" id="brand">Для просмотра достпуных вакансий, заполните форму по одному из полей (либо город, либо язык программирования)</h4>
+        <h4 class="my-2" id="brand">To view available vacancies, fill out the form using one of the fields (either city or programming language)</h4>
         <form method="GET" action="{% url 'scraping:list' %}">
           <div class="form-group" id="brand">
             {{ form.as_p }}

@@ -1,0 +1,13 @@
+{% extends 'scraping/base.html' %}
+{% block title %}Delete {{ object.title }}{% endblock title %}
+
+
+{% block content %}
+    <div class="card my-3" id="brand">
+        <form method="post">
+            {% csrf_token %}
+            <p>{{ object }}</p>
+            <input type="submit" value="Delete?">
+        </form>
+    </div>
+{% endblock content %}

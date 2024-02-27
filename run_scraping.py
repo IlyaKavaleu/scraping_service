@@ -77,6 +77,7 @@ async def main(value):
     errors.extend(err)
     jobs.extend(job)
 
+
 settings = get_settings()
 url_list = get_urls(settings)
 loop = asyncio.get_event_loop()
